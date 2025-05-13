@@ -1,0 +1,757 @@
+ID_invest;Classe d actif;Plateforme;Nom;Support;Date prevue;Type de flux;Montant attendu;TVA;Devise;Commentaire
+57;VC;Jiph;Advanced CMA;part;15/12/2021;in_participation;2349501,98;0;EUR;
+59;VC;Jiph;EthiFinance;part;15/12/2021;out_investissement;1348231,14;0;EUR;
+59;VC;Jiph;EthiFinance;part;15/10/2022;in_remboursement_capital;1348231,14;0;EUR;
+59;VC;Jiph;EthiFinance;part;15/10/2022;in_participation;616486,86;0;EUR;
+56;Finance;Generali;83151088;part;01/12/2022;out_investissement;500000;0;EUR;
+56;Finance;Generali;83151750;part;01/08/2023;out_investissement;400000;0;EUR;
+57;VC;Jiph;Advanced CMA;Dividendes;15/06/2021;in_versement_interet;300000;0;EUR;
+5;SCPI;Praemia;"Primopierre		";part;01/02/2022;out_investissement;200096;0;EUR;Initialisation
+56;Finance;Generali;83151077;part;01/12/2022;out_investissement;200000;0;EUR;
+55;Crypto;Nexo;Staking;coin;01/07/2021;out_investissement;200000;0;EUR;
+11;SCPI;Sofidy;Immorente;part;01/11/2022;out_investissement;199920;0;EUR;Initialisation
+6;SCPI;Atland-voisin;Epargne Pierre;part;01/02/2022;out_investissement;150176;0;EUR;Initialisation
+8;SCPI;CORUM;EURION;part;01/01/2022;out_investissement;150176;0;EUR;Initialisation
+57;VC;Jiph;Advanced CMA;Dividendes;15/11/2020;in_versement_interet;150000;0;EUR;
+58;VC;Jiph;Money Walkie;part;15/12/2020;out_investissement;150000;0;EUR;
+7;SCPI;Atland-voisin;Epargne Pierre;part;01/01/2023;out_investissement;100048;0;EUR;Renforcement
+10;SCPI;Sofidy;Efimmo;part;01/11/2022;out_investissement;100014;0;EUR;Initialisation
+12;SCPI;Atland-voisin;Epargne Pierre Europe;part;01/06/2024;out_investissement;100000;0;EUR;Initialisation
+37;Crowdlending;ClubFunding;Le Club - Bir Hakeim / CF CAPITAL 1 SAS;part;30/12/2022;out_investissement;100000;0;EUR;Initialisation
+37;Crowdlending;ClubFunding;Le Club - Bir Hakeim / CF CAPITAL 1 SAS;part;01/09/2025;in_remboursement_capital;100000;0;EUR;-
+55;Crypto;Nexo;Staking;coin;01/02/2022;out_investissement;100000;0;EUR;
+9;SCPI;CORUM;EURION;part;01/11/2022;out_investissement;99975;0;EUR;Renforcement
+55;Crypto;Nexo;Staking;coin;01/11/2021;out_investissement;50000;0;EUR;
+55;Crypto;Nexo;Staking;coin;01/01/2022;out_investissement;50000;0;EUR;
+46;PE;BEX;BEX Fund V by Peqan;part;01/06/2026;out_renforcement;45000;0;EUR;-
+46;PE;BEX;BEX Fund V by Peqan;part;01/12/2025;out_renforcement;44000;0;EUR;-
+42;PE;Altaroc;ALTAROC GLOBAL 2022 FPCI;part;01/12/2028;in_remboursement_capital;40000;0;EUR;-
+42;PE;Altaroc;ALTAROC GLOBAL 2022 FPCI;part;01/12/2029;in_remboursement_capital;40000;0;EUR;-
+43;PE;Altaroc;ALTAROC ODYSSEY 2023 FPCI;part;01/06/2029;in_remboursement_capital;40000;0;EUR;-
+43;PE;Altaroc;ALTAROC ODYSSEY 2023 FPCI;part;01/06/2030;in_remboursement_capital;40000;0;EUR;-
+45;PE;Altaroc;ALTAROC ODYSSEY 2024 FPCI;part;01/08/2030;in_remboursement_capital;40000;0;EUR;-
+45;PE;Altaroc;ALTAROC ODYSSEY 2024 FPCI;part;01/08/2031;in_remboursement_capital;40000;0;EUR;-
+44;PE;LBO France;LBO France - WHITE CAPS SeLECTION 3;part;01/06/2029;in_remboursement_capital;40000;0;EUR;-
+37;Crowdlending;ClubFunding;Le Club - Bir Hakeim / CF CAPITAL 1 SAS;part;01/09/2025;in_versement_interet;34560;0;EUR;-
+44;PE;LBO France;LBO France - WHITE CAPS SeLECTION 3;part;01/03/2023;out_investissement;32000;0;EUR;Initialisation
+42;PE;Altaroc;ALTAROC GLOBAL 2022 FPCI;part;01/01/2026;out_renforcement;30000;0;EUR;-
+46;PE;BEX;BEX Fund V by Peqan;part;01/11/2029;in_remboursement_capital;30000;0;EUR;
+41;Crowdlending;ClubFunding;Casa Ibiza / Casalina SAS;obligation;20/04/2023;out_investissement;30000;0;EUR;Initialisation
+41;Crowdlending;ClubFunding;Casa Ibiza / Casalina SAS;obligation;01/07/2024;in_remboursement_capital;30000;0;EUR;-
+44;PE;LBO France;LBO France - WHITE CAPS SeLECTION 3;part;01/06/2028;in_remboursement_capital;30000;0;EUR;-
+44;PE;LBO France;LBO France - WHITE CAPS SeLECTION 3;part;01/06/2031;in_versement_interet;30000;0;EUR;-
+39;Crowdlending;ClubFunding;West Retail Center / Infini Capital SAS;obligation;01/03/2023;out_investissement;30000;0;EUR;Initialisation
+39;Crowdlending;ClubFunding;West Retail Center / Infini Capital SAS;obligation;01/05/2025;in_remboursement_capital;28836,9;0;EUR;-
+42;PE;Altaroc;ALTAROC GLOBAL 2022 FPCI;part;01/12/2030;in_versement_interet;25000;0;EUR;-
+42;PE;Altaroc;ALTAROC GLOBAL 2022 FPCI;part;01/12/2031;in_versement_interet;25000;0;EUR;-
+43;PE;Altaroc;ALTAROC ODYSSEY 2023 FPCI;part;01/06/2031;in_versement_interet;25000;0;EUR;-
+43;PE;Altaroc;ALTAROC ODYSSEY 2023 FPCI;part;01/06/2032;in_versement_interet;25000;0;EUR;-
+45;PE;Altaroc;ALTAROC ODYSSEY 2024 FPCI;part;01/08/2032;in_versement_interet;25000;0;EUR;-
+45;PE;Altaroc;ALTAROC ODYSSEY 2024 FPCI;part;01/08/2033;in_versement_interet;25000;0;EUR;-
+43;PE;Altaroc;ALTAROC ODYSSEY 2023 FPCI;part;01/07/2023;out_investissement;22000;0;EUR;-
+42;PE;Altaroc;ALTAROC GLOBAL 2022 FPCI;part;01/12/2032;in_versement_interet;20000;0;EUR;-
+43;PE;Altaroc;ALTAROC ODYSSEY 2023 FPCI;part;01/07/2026;out_renforcement;20000;0;EUR;-
+43;PE;Altaroc;ALTAROC ODYSSEY 2023 FPCI;part;01/07/2027;out_renforcement;20000;0;EUR;-
+43;PE;Altaroc;ALTAROC ODYSSEY 2023 FPCI;part;01/06/2033;in_versement_interet;20000;0;EUR;-
+45;PE;Altaroc;ALTAROC ODYSSEY 2024 FPCI;part;01/06/2025;out_renforcement;20000;0;EUR;-
+45;PE;Altaroc;ALTAROC ODYSSEY 2024 FPCI;part;01/09/2026;out_renforcement;20000;0;EUR;-
+45;PE;Altaroc;ALTAROC ODYSSEY 2024 FPCI;part;01/09/2027;out_renforcement;20000;0;EUR;-
+45;PE;Altaroc;ALTAROC ODYSSEY 2024 FPCI;part;01/09/2028;out_renforcement;20000;0;EUR;-
+45;PE;Altaroc;ALTAROC ODYSSEY 2024 FPCI;part;01/08/2034;in_versement_interet;20000;0;EUR;-
+46;PE;BEX;BEX Fund V by Peqan;part;01/11/2026;in_remboursement_capital;20000;0;EUR;
+46;PE;BEX;BEX Fund V by Peqan;part;01/11/2027;in_remboursement_capital;20000;0;EUR;
+46;PE;BEX;BEX Fund V by Peqan;part;01/11/2028;in_remboursement_capital;20000;0;EUR;
+46;PE;BEX;BEX Fund V by Peqan;part;01/11/2030;in_versement_interet;20000;0;EUR;
+14;Crowdlending;Raizers;Carre Saint Martin par Carre Promotion;obligation;19/04/2022;out_investissement;20000;0;EUR;Initialisation
+14;Crowdlending;Raizers;Carre Saint Martin par Carre Promotion;obligation;01/10/2025;in_remboursement_capital;20000;0;EUR;-
+15;Crowdlending;Raizers;Chalet Elan par DeSavoie ;obligation;01/04/2022;out_investissement;20000;0;EUR;Initialisation
+15;Crowdlending;Raizers;Chalet Elan par DeSavoie ;obligation;07/06/2024;in_remboursement_capital;20000;0;EUR;-
+16;Crowdlending;Raizers;Chamonix Les Praz;obligation;12/08/2022;out_investissement;20000;0;EUR;Initialisation
+16;Crowdlending;Raizers;Chamonix Les Praz;obligation;01/07/2025;in_remboursement_capital;20000;0;EUR;-
+19;Crowdlending;Raizers;Cote Sud par BG Promotion;obligation;01/02/2022;out_investissement;20000;0;EUR;Initialisation
+38;Crowdlending;ClubFunding;FRAGONARD SCHOOL / GDG Holdco fragonard SAS;obligation;23/02/2023;out_investissement;20000;0;EUR;Initialisation
+38;Crowdlending;ClubFunding;FRAGONARD SCHOOL / GDG Holdco fragonard SAS;obligation;01/06/2025;in_remboursement_capital;20000;0;EUR;-
+20;Crowdlending;Raizers;Gambetta par MV INVEST;obligation;09/03/2022;out_investissement;20000;0;EUR;Initialisation
+21;Crowdlending;Raizers;Greenwood par BG promotion;obligation;12/04/2022;out_investissement;20000;0;EUR;Initialisation
+21;Crowdlending;Raizers;Greenwood par BG promotion;obligation;15/02/2023;in_remboursement_capital;20000;0;EUR;-
+44;PE;LBO France;LBO France - WHITE CAPS SeLECTION 3;part;01/05/2024;out_renforcement;20000;0;EUR;-
+44;PE;LBO France;LBO France - WHITE CAPS SeLECTION 3;part;01/12/2024;out_renforcement;20000;0;EUR;-
+44;PE;LBO France;LBO France - WHITE CAPS SeLECTION 3;part;01/06/2030;in_remboursement_capital;20000;0;EUR;-
+44;PE;LBO France;LBO France - WHITE CAPS SeLECTION 3;part;01/06/2030;in_versement_interet;20000;0;EUR;-
+44;PE;LBO France;LBO France - WHITE CAPS SeLECTION 3;part;01/06/2032;in_versement_interet;20000;0;EUR;-
+36;Crowdlending;ClubFunding;Park ESCAUDAIN / BVI.EU Finance SASU;obligation;12/01/2023;out_investissement;20000;0;EUR;Initialisation
+27;Crowdlending;Raizers;Rue de Ponthieu par la Fonciere de l'Immobilier;obligation;04/07/2022;out_investissement;20000;0;EUR;Initialisation
+27;Crowdlending;Raizers;Rue de Ponthieu par la Fonciere de l'Immobilier;obligation;25/01/2023;in_remboursement_capital;20000;0;EUR;-
+40;Crowdlending;ClubFunding;Saint-Jacques / SGM Persephone SAS;obligation;29/03/2023;out_investissement;20000;0;EUR;Initialisation
+40;Crowdlending;ClubFunding;Saint-Jacques / SGM Persephone SAS;obligation;01/06/2025;in_remboursement_capital;20000;0;EUR;-
+29;Crowdlending;Raizers;Sciez par Symphony;obligation;20/01/2022;out_investissement;20000;0;EUR;Initialisation
+29;Crowdlending;Raizers;Sciez par Symphony;obligation;01/10/2025;in_remboursement_capital;20000;0;EUR;-
+30;Crowdlending;Raizers;Villa Cote d'Azur par Guccy & HK Group;obligation;12/12/2022;out_investissement;20000;0;EUR;Initialisation
+30;Crowdlending;Raizers;Villa Cote d'Azur par Guccy & HK Group;obligation;01/07/2025;in_remboursement_capital;20000;0;EUR;-
+31;Crowdlending;Raizers;Villa Hibiscus par Art & Stone;obligation;18/01/2022;out_investissement;20000;0;EUR;Initialisation
+31;Crowdlending;Raizers;Villa Hibiscus par Art & Stone;obligation;22/09/2023;in_remboursement_capital;20000;0;EUR;-
+32;Crowdlending;Raizers;Villa Jaine par LEO INVEST;obligation;31/10/2022;out_investissement;20000;0;EUR;Initialisation
+32;Crowdlending;Raizers;Villa Jaine par LEO INVEST;obligation;01/05/2025;in_remboursement_capital;20000;0;EUR;-
+35;Crowdlending;Raizers;Vitalia par NG Promotion;obligation;16/02/2022;out_investissement;20000;0;EUR;Initialisation
+35;Crowdlending;Raizers;Vitalia par NG Promotion;obligation;01/07/2025;in_remboursement_capital;20000;0;EUR;-
+54;Conseil;JBI;FinStart;facture;29/01/2024;in_facture;19788;3298;EUR;F2024001
+54;Conseil;JBI;FinStart;facture;28/02/2024;in_facture;19788;3298;EUR;F2024004
+54;Conseil;JBI;FinStart;facture;26/03/2024;in_facture;19788;3298;EUR;F2024007
+54;Conseil;JBI;FinStart;facture;26/04/2024;in_facture;19788;3298;EUR;F2024012
+54;Conseil;JBI;FinStart;facture;26/05/2024;in_facture;19788;3298;EUR;F2024015
+54;Conseil;JBI;FinStart;facture;01/07/2024;in_facture;19788;3298;EUR;F2024018
+54;Conseil;JBI;FinStart;facture;26/07/2024;in_facture;19788;3298;EUR;F2024022
+54;Conseil;JBI;FinStart;facture;27/08/2024;in_facture;19788;3298;EUR;F2024024
+54;Conseil;JBI;FinStart;facture;26/09/2024;in_facture;19788;3298;EUR;F2024026
+54;Conseil;JBI;FinStart;facture;28/10/2024;in_facture;19788;3298;EUR;F2024028
+54;Conseil;JBI;FinStart;facture;20/11/2024;in_facture;19788;3298;EUR;F2024030
+54;Conseil;JBI;FinStart;facture;20/12/2024;in_facture;19788;3298;EUR;F2024032
+54;Conseil;JBI;FinStart;facture;27/01/2025;in_facture;19788;3298;EUR;F2025001
+54;Conseil;JBI;FinStart;facture;26/02/2025;in_facture;19788;3298;EUR;F2025003
+54;Conseil;JBI;FinStart;facture;26/03/2025;in_facture;19788;3298;EUR;F2025005
+54;Conseil;JBI;FinStart;facture;26/04/2025;in_facture;19788;3298;EUR;F2025007
+54;Conseil;JBI;FinStart;facture;26/05/2025;in_facture;19788;3298;EUR;
+54;Conseil;JBI;FinStart;facture;26/06/2025;in_facture;19788;3298;EUR;
+54;Conseil;JBI;FinStart;facture;26/07/2025;in_facture;19788;3298;EUR;
+54;Conseil;JBI;FinStart;facture;26/08/2025;in_facture;19788;3298;EUR;
+54;Conseil;JBI;FinStart;facture;26/09/2025;in_facture;19788;3298;EUR;
+54;Conseil;JBI;FinStart;facture;26/10/2025;in_facture;19788;3298;EUR;
+54;Conseil;JBI;FinStart;facture;26/11/2025;in_facture;19788;3298;EUR;
+54;Conseil;JBI;FinStart;facture;26/12/2025;in_facture;19788;3298;EUR;
+46;PE;BEX;BEX Fund V by Peqan;part;01/11/2030;in_versement_interet;18000;0;EUR;
+36;Crowdlending;ClubFunding;Park ESCAUDAIN / BVI.EU Finance SASU;obligation;01/07/2025;in_remboursement_capital;18000;0;EUR;-
+53;Conseil;GRA;FinStart;facture;26/07/2024;in_facture;17401,8;2900,3;EUR;F2024023
+54;Conseil;JBI;Patrimoine Sur Mesure;paiement;01/02/2024;out_paiement;17388;2898;EUR;
+54;Conseil;JBI;Patrimoine Sur Mesure;paiement;01/03/2024;out_paiement;17388;2898;EUR;
+54;Conseil;JBI;Patrimoine Sur Mesure;paiement;01/04/2024;out_paiement;17388;2898;EUR;
+54;Conseil;JBI;Patrimoine Sur Mesure;paiement;01/05/2024;out_paiement;17388;2898;EUR;
+54;Conseil;JBI;Patrimoine Sur Mesure;paiement;01/06/2024;out_paiement;17388;2898;EUR;
+54;Conseil;JBI;Patrimoine Sur Mesure;paiement;01/07/2024;out_paiement;17388;2898;EUR;
+54;Conseil;JBI;Patrimoine Sur Mesure;paiement;01/08/2024;out_paiement;17388;2898;EUR;
+54;Conseil;JBI;Patrimoine Sur Mesure;paiement;01/09/2024;out_paiement;17388;2898;EUR;
+54;Conseil;JBI;Patrimoine Sur Mesure;paiement;01/10/2024;out_paiement;17388;2898;EUR;
+54;Conseil;JBI;Patrimoine Sur Mesure;paiement;01/11/2024;out_paiement;17388;2898;EUR;
+54;Conseil;JBI;Patrimoine Sur Mesure;paiement;01/12/2024;out_paiement;17388;2898;EUR;
+54;Conseil;JBI;Patrimoine Sur Mesure;paiement;01/01/2025;out_paiement;17388;2898;EUR;
+54;Conseil;JBI;Patrimoine Sur Mesure;paiement;01/02/2025;out_paiement;17388;2898;EUR;
+54;Conseil;JBI;Patrimoine Sur Mesure;paiement;01/03/2025;out_paiement;17388;2898;EUR;
+54;Conseil;JBI;Patrimoine Sur Mesure;paiement;01/04/2025;out_paiement;17388;2898;EUR;
+54;Conseil;JBI;Patrimoine Sur Mesure;paiement;01/05/2025;out_paiement;17388;2898;EUR;
+54;Conseil;JBI;Patrimoine Sur Mesure;paiement;01/06/2025;out_paiement;17388;2898;EUR;
+54;Conseil;JBI;Patrimoine Sur Mesure;paiement;01/07/2025;out_paiement;17388;2898;EUR;
+54;Conseil;JBI;Patrimoine Sur Mesure;paiement;01/08/2025;out_paiement;17388;2898;EUR;
+54;Conseil;JBI;Patrimoine Sur Mesure;paiement;01/09/2025;out_paiement;17388;2898;EUR;
+54;Conseil;JBI;Patrimoine Sur Mesure;paiement;01/10/2025;out_paiement;17388;2898;EUR;
+54;Conseil;JBI;Patrimoine Sur Mesure;paiement;01/11/2025;out_paiement;17388;2898;EUR;
+54;Conseil;JBI;Patrimoine Sur Mesure;paiement;01/12/2025;out_paiement;17388;2898;EUR;
+54;Conseil;JBI;Patrimoine Sur Mesure;paiement;01/01/2026;out_paiement;17388;2898;EUR;
+42;PE;Altaroc;ALTAROC GLOBAL 2022 FPCI;part;01/01/2023;out_investissement;17201,37;0;EUR;-
+53;Conseil;GRA;FinStart;facture;27/01/2025;in_facture;16645,2;2774,2;EUR;F2025002
+20;Crowdlending;Raizers;Gambetta par MV INVEST;obligation;27/10/2023;in_remboursement_capital;16000;0;EUR;-
+53;Conseil;GRA;FinStart;facture;28/02/2024;in_facture;15888,6;2648,1;EUR;F2024005
+53;Conseil;GRA;FinStart;facture;26/03/2024;in_facture;15888,6;2648,1;EUR;F2024008
+53;Conseil;GRA;FinStart;facture;27/08/2024;in_facture;15888,6;2648,1;EUR;F2024025
+53;Conseil;GRA;FinStart;facture;20/12/2024;in_facture;15888,6;2648,1;EUR;F2024033
+53;Conseil;GRA;FinStart;facture;26/03/2025;in_facture;15888,6;2648,1;EUR;F2025006
+53;Conseil;GRA;FinStart;facture;26/04/2024;in_facture;15132;2522;EUR;F2024013
+53;Conseil;GRA;FinStart;facture;26/02/2025;in_facture;15132;2522;EUR;F2025004
+17;Crowdlending;Raizers;Chantemesle par SAS Negu;obligation;18/04/2022;out_investissement;15000;0;EUR;Initialisation
+17;Crowdlending;Raizers;Chantemesle par SAS Negu;obligation;11/04/2025;in_remboursement_capital;15000;0;EUR;-
+53;Conseil;GRA;FinStart;facture;28/10/2024;in_facture;14375,4;2395,9;EUR;F2024029
+53;Conseil;GRA;FinStart;facture;29/01/2024;in_facture;12862,2;2143,7;EUR;F2024002
+45;PE;Altaroc;ALTAROC ODYSSEY 2024 FPCI;part;01/07/2024;out_investissement;12000;0;EUR;Initialisation
+46;PE;BEX;BEX Fund V by Peqan;part;01/11/2030;in_remboursement_capital;12000;0;EUR;
+53;Conseil;GRA;FinStart;facture;26/05/2024;in_facture;11349;1891,5;EUR;F2024016
+53;Conseil;GRA;FinStart;facture;26/09/2024;in_facture;10592,4;1765,4;EUR;F2024027
+19;Crowdlending;Raizers;Cote Sud par BG Promotion;obligation;07/05/2024;in_remboursement_capital;10566,04;0;EUR;-
+66;VC;PBA;Bloom;part;15/06/2024;out_investissement;10128;0;EUR;
+63;VC;PBA;HYMAG'IN;part;20/11/2023;out_investissement;10024;0;EUR;
+13;Crowdlending;Raizers;4 operations immobilieres par Commercial IGP;obligation;18/07/2022;out_investissement;10000;0;EUR;Initialisation
+13;Crowdlending;Raizers;4 operations immobilieres par Commercial IGP;obligation;01/07/2025;in_remboursement_capital;10000;0;EUR;-
+42;PE;Altaroc;ALTAROC GLOBAL 2022 FPCI;part;01/04/2023;out_renforcement;10000;0;EUR;-
+42;PE;Altaroc;ALTAROC GLOBAL 2022 FPCI;part;01/10/2023;out_renforcement;10000;0;EUR;-
+42;PE;Altaroc;ALTAROC GLOBAL 2022 FPCI;part;01/04/2024;out_renforcement;10000;0;EUR;-
+42;PE;Altaroc;ALTAROC GLOBAL 2022 FPCI;part;01/10/2024;out_renforcement;10000;0;EUR;-
+42;PE;Altaroc;ALTAROC GLOBAL 2022 FPCI;part;01/04/2025;out_renforcement;10000;0;EUR;-
+42;PE;Altaroc;ALTAROC GLOBAL 2022 FPCI;part;01/12/2026;in_remboursement_capital;10000;0;EUR;-
+42;PE;Altaroc;ALTAROC GLOBAL 2022 FPCI;part;01/12/2027;in_remboursement_capital;10000;0;EUR;-
+43;PE;Altaroc;ALTAROC ODYSSEY 2023 FPCI;part;01/04/2024;out_renforcement;10000;0;EUR;-
+43;PE;Altaroc;ALTAROC ODYSSEY 2023 FPCI;part;01/10/2024;out_renforcement;10000;0;EUR;-
+43;PE;Altaroc;ALTAROC ODYSSEY 2023 FPCI;part;01/04/2025;out_renforcement;10000;0;EUR;-
+43;PE;Altaroc;ALTAROC ODYSSEY 2023 FPCI;part;01/07/2025;out_renforcement;10000;0;EUR;-
+43;PE;Altaroc;ALTAROC ODYSSEY 2023 FPCI;part;01/06/2027;in_remboursement_capital;10000;0;EUR;-
+43;PE;Altaroc;ALTAROC ODYSSEY 2023 FPCI;part;01/06/2028;in_remboursement_capital;10000;0;EUR;-
+45;PE;Altaroc;ALTAROC ODYSSEY 2024 FPCI;part;01/07/2025;out_renforcement;10000;0;EUR;-
+45;PE;Altaroc;ALTAROC ODYSSEY 2024 FPCI;part;01/08/2028;in_remboursement_capital;10000;0;EUR;-
+45;PE;Altaroc;ALTAROC ODYSSEY 2024 FPCI;part;01/08/2029;in_remboursement_capital;10000;0;EUR;-
+18;Crowdlending;Raizers;Chemin du Glacis par MV Invest;obligation;09/02/2022;out_investissement;10000;0;EUR;Initialisation
+59;VC;Side Angels;DATACOOK;part;15/04/2023;out_investissement;10000;0;EUR;
+62;VC;one green;Dealt;part;15/11/2023;out_investissement;10000;0;EUR;
+65;VC;one green;Dood;part;12/02/2024;out_investissement;10000;0;EUR;
+68;VC;one green;fygr;part;15/04/2025;out_investissement;10000;0;EUR;
+23;Crowdlending;Raizers;Hotel Le Trayas par MEGA INVEST;obligation;25/03/2022;out_investissement;10000;0;EUR;Initialisation
+24;Crowdlending;Raizers;La Passerelle par Neo City Promotion;obligation;03/08/2022;out_investissement;10000;0;EUR;Initialisation
+24;Crowdlending;Raizers;La Passerelle par Neo City Promotion;obligation;05/12/2024;in_remboursement_capital;10000;0;EUR;-
+44;PE;LBO France;LBO France - WHITE CAPS SeLECTION 3;part;01/04/2025;out_renforcement;10000;0;EUR;-
+44;PE;LBO France;LBO France - WHITE CAPS SeLECTION 3;part;01/07/2025;out_renforcement;10000;0;EUR;-
+44;PE;LBO France;LBO France - WHITE CAPS SeLECTION 3;part;01/03/2026;out_renforcement;10000;0;EUR;-
+44;PE;LBO France;LBO France - WHITE CAPS SeLECTION 3;part;01/06/2027;in_remboursement_capital;10000;0;EUR;-
+25;Crowdlending;Raizers;Le Boulou par Prestige Immo;obligation;09/02/2022;out_investissement;10000;0;EUR;Initialisation
+67;VC;PBA;NA3D;part;15/03/2025;out_investissement;10000;0;EUR;
+26;Crowdlending;Raizers;Place des Etats-Unis par Pulsim;obligation;17/03/2022;out_investissement;10000;0;EUR;Initialisation
+26;Crowdlending;Raizers;Place des Etats-Unis par Pulsim;obligation;01/07/2025;in_remboursement_capital;10000;0;EUR;-
+28;Crowdlending;Raizers;Saint-Alban par UNITI;obligation;30/10/2020;out_investissement;10000;0;EUR;Initialisation
+33;Crowdlending;Raizers;Villa Mougine par Art & Stone;obligation;01/02/2022;out_investissement;10000;0;EUR;Initialisation
+33;Crowdlending;Raizers;Villa Mougine par Art & Stone;obligation;06/11/2023;in_remboursement_capital;10000;0;EUR;-
+34;Crowdlending;Raizers;Villa Sainte-Anne par Fonciere Emeraude;obligation;03/06/2022;out_investissement;10000;0;EUR;Initialisation
+34;Crowdlending;Raizers;Villa Sainte-Anne par Fonciere Emeraude;obligation;01/10/2025;in_remboursement_capital;10000;0;EUR;-
+60;VC;Jiph;Metadefi;part;15/06/2023;out_investissement;9989;0;EUR;
+19;Crowdlending;Raizers;Cote Sud par BG Promotion;obligation;14/06/2023;in_remboursement_capital;9433,95;0;EUR;-
+53;Conseil;GRA;Geoffrey RAIA;paiement;01/08/2024;out_paiement;9200;0;EUR;
+23;Crowdlending;Raizers;Hotel Le Trayas par MEGA INVEST;obligation;18/10/2024;in_remboursement_capital;9047,62;0;EUR;-
+53;Conseil;GRA;Geoffrey RAIA;paiement;01/02/2025;out_paiement;8800;0;EUR;
+53;Conseil;GRA;Geoffrey RAIA;paiement;01/03/2024;out_paiement;8400;0;EUR;
+53;Conseil;GRA;Geoffrey RAIA;paiement;01/04/2024;out_paiement;8400;0;EUR;
+53;Conseil;GRA;Geoffrey RAIA;paiement;01/09/2024;out_paiement;8400;0;EUR;
+53;Conseil;GRA;Geoffrey RAIA;paiement;01/01/2025;out_paiement;8400;0;EUR;
+53;Conseil;GRA;Geoffrey RAIA;paiement;01/04/2025;out_paiement;8400;0;EUR;
+53;Conseil;GRA;AURELIA DURAND DESIGN STUDIO;paiement;01/04/2024;out_paiement;8159,7;1359,95;EUR;
+53;Conseil;GRA;AURELIA DURAND DESIGN STUDIO;paiement;01/10/2024;out_paiement;8021,4;1336,9;EUR;
+53;Conseil;GRA;Geoffrey RAIA;paiement;01/05/2024;out_paiement;8000;0;EUR;
+53;Conseil;GRA;Geoffrey RAIA;paiement;01/03/2025;out_paiement;8000;0;EUR;
+53;Conseil;GRA;Geoffrey RAIA;paiement;01/11/2024;out_paiement;7600;0;EUR;
+53;Conseil;GRA;FinStart;facture;01/07/2024;in_facture;7566;1261;EUR;F2024019
+50;Conseil;JPG;LES SHERPAS;facture;28/04/2023;in_facture;7200;1200;EUR;F2023008
+1;Conseil;JPG;Managemnt fees;facture;01/01/2020;in_facture;7200;1200;EUR;
+53;Conseil;GRA;AURELIA DURAND DESIGN STUDIO;paiement;01/04/2025;out_paiement;7145,5;0;EUR;
+1;Conseil;JPG;Managemnt fees;facture;01/09/2020;in_facture;7100;1183,333333;EUR;
+46;PE;BEX;BEX Fund V by Peqan;part;01/05/2025;out_renforcement;7000;0;EUR;-
+22;Crowdlending;Raizers;Hameau du Lac par Nature et Residence;obligation;11/10/2022;out_investissement;7000;0;EUR;Initialisation
+25;Crowdlending;Raizers;Le Boulou par Prestige Immo;obligation;01/07/2025;in_remboursement_capital;7000;0;EUR;-
+53;Conseil;GRA;FinStart;facture;20/11/2024;in_facture;6809,4;1134,9;EUR;F2024031
+53;Conseil;GRA;Geoffrey RAIA;paiement;01/02/2024;out_paiement;6800;0;EUR;
+22;Crowdlending;Raizers;Hameau du Lac par Nature et Residence;obligation;01/10/2025;in_remboursement_capital;6562,5;0;EUR;-
+47;Conseil;PAL;PERSPECTIVES ADVISORY;facture;05/12/2022;in_facture;6543;1090,5;EUR;F2022001
+18;Crowdlending;Raizers;Chemin du Glacis par MV Invest;obligation;15/05/2024;in_remboursement_capital;6387,33;0;EUR;-
+46;PE;BEX;BEX Fund V by Peqan;part;01/03/2025;out_investissement;6000;0;EUR;Initialisation
+53;Conseil;GRA;Geoffrey RAIA;paiement;01/06/2024;out_paiement;6000;0;EUR;
+53;Conseil;GRA;AURELIA DURAND DESIGN STUDIO;paiement;01/01/2025;out_paiement;5647,25;0;EUR;
+53;Conseil;GRA;Geoffrey RAIA;paiement;01/10/2024;out_paiement;5600;0;EUR;
+61;VC;Super Capital;58 facettes;part;15/07/2023;out_investissement;5000;0;EUR;
+42;PE;Altaroc;ALTAROC GLOBAL 2022 FPCI;part;01/01/2027;out_renforcement;5000;0;EUR;-
+14;Crowdlending;Raizers;Carre Saint Martin par Carre Promotion;obligation;01/10/2025;in_versement_interet;5000;0;EUR;-
+58;VC;Jiph;Money Walkie;part;15/11/2021;out_investissement;4845;0;EUR;
+53;Conseil;GRA;AURELIA DURAND DESIGN STUDIO;paiement;01/06/2024;out_paiement;4840,5;806,75;EUR;
+49;Conseil;JPG;QIVALIO;facture;14/12/2022;in_facture;4068;678;EUR;F2022004
+20;Crowdlending;Raizers;Gambetta par MV INVEST;obligation;01/07/2025;in_versement_interet;4000;0;EUR;-
+53;Conseil;GRA;Geoffrey RAIA;paiement;01/07/2024;out_paiement;4000;0;EUR;
+28;Crowdlending;Raizers;Saint-Alban par UNITI;obligation;03/11/2022;in_remboursement_capital;4000;0;EUR;-
+29;Crowdlending;Raizers;Sciez par Symphony;obligation;01/10/2025;in_versement_interet;4000;0;EUR;-
+35;Crowdlending;Raizers;Vitalia par NG Promotion;obligation;01/07/2025;in_versement_interet;4000;0;EUR;-
+6;SCPI;Atland-voisin;Epargne Pierre;part;01/01/2024;in_loyer_scpi;3681,18;0;EUR;2023-T4
+18;Crowdlending;Raizers;Chemin du Glacis par MV Invest;obligation;01/07/2025;in_remboursement_capital;3613;0;EUR;-
+53;Conseil;GRA;Geoffrey RAIA;paiement;01/12/2024;out_paiement;3600;0;EUR;
+48;Conseil;JBI;Joseph Biboum;facture;14/12/2022;in_facture;3600;600;EUR;F2022002
+1;Conseil;JPG;Managemnt fees;facture;01/04/2020;in_facture;3600;600;EUR;
+1;Conseil;JPG;Managemnt fees;facture;01/06/2020;in_facture;3600;600;EUR;
+1;Conseil;JPG;Managemnt fees;facture;01/12/2020;in_facture;3600;600;EUR;
+1;Conseil;JPG;Managemnt fees;facture;01/03/2021;in_facture;3600;600;EUR;
+1;Conseil;JPG;Managemnt fees;facture;01/07/2021;in_facture;3600;600;EUR;
+11;SCPI;Sofidy;Immorente;part;01/01/2025;in_loyer_scpi;3592,68;0;EUR;2024-T4
+6;SCPI;Atland-voisin;Epargne Pierre;part;01/04/2024;in_loyer_scpi;3476,67;0;EUR;2024-T1
+5;SCPI;Praemia;Primopierre;part;01/08/2023;in_loyer_scpi;3385,59;0;EUR;2023-T2
+6;SCPI;Atland-voisin;Epargne Pierre;part;01/01/2025;in_loyer_scpi;3380,43;0;EUR;2024-T4
+6;SCPI;Atland-voisin;Epargne Pierre;part;01/04/2025;in_loyer_scpi;3320,28;0;EUR;2025-T1
+6;SCPI;Atland-voisin;Epargne Pierre;part;01/10/2023;in_loyer_scpi;3175,92;0;EUR;2023-T3
+6;SCPI;Atland-voisin;Epargne Pierre;part;01/07/2024;in_loyer_scpi;3175,92;0;EUR;2024-T2
+6;SCPI;Atland-voisin;Epargne Pierre;part;01/10/2024;in_loyer_scpi;3175,92;0;EUR;2024-T3
+17;Crowdlending;Raizers;Chantemesle par SAS Negu;obligation;11/04/2025;in_versement_interet;3023,98;0;EUR;-
+28;Crowdlending;Raizers;Saint-Alban par UNITI;obligation;13/01/2023;in_remboursement_capital;3000;0;EUR;-
+28;Crowdlending;Raizers;Saint-Alban par UNITI;obligation;13/02/2023;in_remboursement_capital;3000;0;EUR;-
+11;SCPI;Sofidy;Immorente;part;01/01/2024;in_loyer_scpi;2775,36;0;EUR;2023-T4
+15;Crowdlending;Raizers;Chalet Elan par DeSavoie ;obligation;07/06/2024;in_versement_interet;2407,45;0;EUR;-
+52;Conseil;JPG;EthiFinance SAS;facture;28/04/2023;in_facture;2400;400;EUR;F2023010
+52;Conseil;JPG;EthiFinance SAS;facture;29/05/2023;in_facture;2400;400;EUR;F2023012
+52;Conseil;JPG;EthiFinance SAS;facture;28/09/2023;in_facture;2400;400;EUR;F2023025
+52;Conseil;JPG;EthiFinance SAS;facture;30/10/2023;in_facture;2400;400;EUR;F2023029
+52;Conseil;JPG;EthiFinance SAS;facture;27/11/2023;in_facture;2400;400;EUR;F2023032
+52;Conseil;JPG;EthiFinance SAS;facture;15/12/2023;in_facture;2400;400;EUR;F2023035
+50;Conseil;JPG;LES SHERPAS;facture;29/05/2023;in_facture;2400;400;EUR;F2023013
+50;Conseil;JPG;LES SHERPAS;facture;01/07/2023;in_facture;2400;400;EUR;F2023016
+50;Conseil;JPG;LES SHERPAS;facture;28/07/2023;in_facture;2400;400;EUR;F2023020
+50;Conseil;JPG;LES SHERPAS;facture;30/08/2023;in_facture;2400;400;EUR;F2023023
+50;Conseil;JPG;LES SHERPAS;facture;28/09/2023;in_facture;2400;400;EUR;F2023026
+50;Conseil;JPG;LES SHERPAS;facture;30/10/2023;in_facture;2400;400;EUR;F2023030
+50;Conseil;JPG;LES SHERPAS;facture;27/11/2023;in_facture;2400;400;EUR;F2023033
+50;Conseil;JPG;LES SHERPAS;facture;22/12/2023;in_facture;2400;400;EUR;F2023037
+50;Conseil;JPG;LES SHERPAS;facture;29/01/2024;in_facture;2400;400;EUR;F2024003
+50;Conseil;JPG;LES SHERPAS;facture;28/02/2024;in_facture;2400;400;EUR;F2024006
+50;Conseil;JPG;LES SHERPAS;facture;26/03/2024;in_facture;2400;400;EUR;F2024009
+50;Conseil;JPG;LES SHERPAS;facture;26/04/2024;in_facture;2400;400;EUR;F2024011
+50;Conseil;JPG;LES SHERPAS;facture;26/05/2024;in_facture;2400;400;EUR;F2024014
+50;Conseil;JPG;LES SHERPAS;facture;01/07/2024;in_facture;2400;400;EUR;F2024017
+50;Conseil;JPG;LES SHERPAS;facture;26/07/2024;in_facture;2400;400;EUR;F2024021
+49;Conseil;JPG;QIVALIO;facture;14/12/2022;in_facture;2400;400;EUR;F2022003
+6;SCPI;Atland-voisin;Epargne Pierre;part;01/07/2023;in_loyer_scpi;2329,6;0;EUR;2023-T2
+42;PE;Altaroc;ALTAROC GLOBAL 2022 FPCI;part;01/12/2030;in_remboursement_capital;2201;0;EUR;-
+43;PE;Altaroc;ALTAROC ODYSSEY 2023 FPCI;part;01/06/2031;in_remboursement_capital;2201;0;EUR;-
+45;PE;Altaroc;ALTAROC ODYSSEY 2024 FPCI;part;01/08/2032;in_remboursement_capital;2201;0;EUR;-
+5;SCPI;Praemia;Primopierre;part;01/02/2023;in_loyer_scpi;2193,36;0;EUR;2022-T4
+6;SCPI;Atland-voisin;Epargne Pierre;part;01/07/2025;in_loyer_scpi;2189,46;0;EUR;2025-T2
+6;SCPI;Atland-voisin;Epargne Pierre;part;01/10/2025;in_loyer_scpi;2189,46;0;EUR;2025-T3
+6;SCPI;Atland-voisin;Epargne Pierre;part;01/01/2026;in_loyer_scpi;2189,46;0;EUR;2025-T4
+6;SCPI;Atland-voisin;Epargne Pierre;part;01/04/2026;in_loyer_scpi;2189,46;0;EUR;2026-T1
+6;SCPI;Atland-voisin;Epargne Pierre;part;01/07/2026;in_loyer_scpi;2189,46;0;EUR;2026-T2
+6;SCPI;Atland-voisin;Epargne Pierre;part;01/10/2026;in_loyer_scpi;2189,46;0;EUR;2026-T3
+6;SCPI;Atland-voisin;Epargne Pierre;part;01/01/2027;in_loyer_scpi;2189,46;0;EUR;2026-T4
+6;SCPI;Atland-voisin;Epargne Pierre;part;01/04/2027;in_loyer_scpi;2189,46;0;EUR;2027-T1
+6;SCPI;Atland-voisin;Epargne Pierre;part;01/07/2027;in_loyer_scpi;2189,46;0;EUR;2027-T2
+6;SCPI;Atland-voisin;Epargne Pierre;part;01/10/2027;in_loyer_scpi;2189,46;0;EUR;2027-T3
+6;SCPI;Atland-voisin;Epargne Pierre;part;01/01/2028;in_loyer_scpi;2189,46;0;EUR;2027-T4
+6;SCPI;Atland-voisin;Epargne Pierre;part;01/04/2028;in_loyer_scpi;2189,46;0;EUR;2028-T1
+6;SCPI;Atland-voisin;Epargne Pierre;part;01/07/2028;in_loyer_scpi;2189,46;0;EUR;2028-T2
+6;SCPI;Atland-voisin;Epargne Pierre;part;01/10/2028;in_loyer_scpi;2189,46;0;EUR;2028-T3
+6;SCPI;Atland-voisin;Epargne Pierre;part;01/01/2029;in_loyer_scpi;2189,46;0;EUR;2028-T4
+6;SCPI;Atland-voisin;Epargne Pierre;part;01/04/2029;in_loyer_scpi;2189,46;0;EUR;2029-T1
+6;SCPI;Atland-voisin;Epargne Pierre;part;01/07/2029;in_loyer_scpi;2189,46;0;EUR;2029-T2
+6;SCPI;Atland-voisin;Epargne Pierre;part;01/10/2029;in_loyer_scpi;2189,46;0;EUR;2029-T3
+6;SCPI;Atland-voisin;Epargne Pierre;part;01/01/2030;in_loyer_scpi;2189,46;0;EUR;2029-T4
+6;SCPI;Atland-voisin;Epargne Pierre;part;01/04/2030;in_loyer_scpi;2189,46;0;EUR;2030-T1
+6;SCPI;Atland-voisin;Epargne Pierre;part;01/07/2030;in_loyer_scpi;2189,46;0;EUR;2030-T2
+6;SCPI;Atland-voisin;Epargne Pierre;part;01/10/2030;in_loyer_scpi;2189,46;0;EUR;2030-T3
+20;Crowdlending;Raizers;Gambetta par MV INVEST;obligation;16/04/2024;in_remboursement_capital;2133,33;0;EUR;-
+11;SCPI;Sofidy;Immorente;part;01/07/2023;in_loyer_scpi;2063,88;0;EUR;2023-T2
+11;SCPI;Sofidy;Immorente;part;01/10/2023;in_loyer_scpi;2063,88;0;EUR;2023-T3
+11;SCPI;Sofidy;Immorente;part;01/04/2024;in_loyer_scpi;2063,88;0;EUR;2024-T1
+11;SCPI;Sofidy;Immorente;part;01/10/2024;in_loyer_scpi;2063,88;0;EUR;2024-T3
+11;SCPI;Sofidy;Immorente;part;01/04/2025;in_loyer_scpi;2063,88;0;EUR;2025-T1
+6;SCPI;Atland-voisin;Epargne Pierre;part;01/01/2023;in_loyer_scpi;2057,7;0;EUR;2022-T4
+11;SCPI;Sofidy;Immorente;part;01/07/2024;in_loyer_scpi;2053,88;0;EUR;2024-T2
+32;Crowdlending;Raizers;Villa Jaine par LEO INVEST;obligation;01/05/2025;in_versement_interet;2000,78;0;EUR;-
+14;Crowdlending;Raizers;Carre Saint Martin par Carre Promotion;obligation;03/05/2023;in_versement_interet;2000;0;EUR;-
+15;Crowdlending;Raizers;Chalet Elan par DeSavoie ;obligation;03/05/2022;in_versement_interet;2000;0;EUR;-
+19;Crowdlending;Raizers;Cote Sud par BG Promotion;obligation;03/02/2025;in_versement_interet;2000;0;EUR;-
+36;Crowdlending;ClubFunding;Park ESCAUDAIN / BVI.EU Finance SASU;obligation;01/02/2025;in_remboursement_capital;2000;0;EUR;-
+31;Crowdlending;Raizers;Villa Hibiscus par Art & Stone;obligation;10/02/2022;in_versement_interet;2000;0;EUR;-
+11;SCPI;Sofidy;Immorente;part;01/07/2025;in_loyer_scpi;1999,2;0;EUR;2025-T2
+11;SCPI;Sofidy;Immorente;part;01/10/2025;in_loyer_scpi;1999,2;0;EUR;2025-T3
+11;SCPI;Sofidy;Immorente;part;01/01/2026;in_loyer_scpi;1999,2;0;EUR;2025-T4
+11;SCPI;Sofidy;Immorente;part;01/04/2026;in_loyer_scpi;1999,2;0;EUR;2026-T1
+11;SCPI;Sofidy;Immorente;part;01/07/2026;in_loyer_scpi;1999,2;0;EUR;2026-T2
+11;SCPI;Sofidy;Immorente;part;01/10/2026;in_loyer_scpi;1999,2;0;EUR;2026-T3
+11;SCPI;Sofidy;Immorente;part;01/01/2027;in_loyer_scpi;1999,2;0;EUR;2026-T4
+11;SCPI;Sofidy;Immorente;part;01/04/2027;in_loyer_scpi;1999,2;0;EUR;2027-T1
+11;SCPI;Sofidy;Immorente;part;01/07/2027;in_loyer_scpi;1999,2;0;EUR;2027-T2
+11;SCPI;Sofidy;Immorente;part;01/10/2027;in_loyer_scpi;1999,2;0;EUR;2027-T3
+11;SCPI;Sofidy;Immorente;part;01/01/2028;in_loyer_scpi;1999,2;0;EUR;2027-T4
+11;SCPI;Sofidy;Immorente;part;01/04/2028;in_loyer_scpi;1999,2;0;EUR;2028-T1
+11;SCPI;Sofidy;Immorente;part;01/07/2028;in_loyer_scpi;1999,2;0;EUR;2028-T2
+11;SCPI;Sofidy;Immorente;part;01/10/2028;in_loyer_scpi;1999,2;0;EUR;2028-T3
+11;SCPI;Sofidy;Immorente;part;01/01/2029;in_loyer_scpi;1999,2;0;EUR;2028-T4
+11;SCPI;Sofidy;Immorente;part;01/04/2029;in_loyer_scpi;1999,2;0;EUR;2029-T1
+11;SCPI;Sofidy;Immorente;part;01/07/2029;in_loyer_scpi;1999,2;0;EUR;2029-T2
+11;SCPI;Sofidy;Immorente;part;01/10/2029;in_loyer_scpi;1999,2;0;EUR;2029-T3
+11;SCPI;Sofidy;Immorente;part;01/01/2030;in_loyer_scpi;1999,2;0;EUR;2029-T4
+11;SCPI;Sofidy;Immorente;part;01/04/2030;in_loyer_scpi;1999,2;0;EUR;2030-T1
+11;SCPI;Sofidy;Immorente;part;01/07/2030;in_loyer_scpi;1999,2;0;EUR;2030-T2
+11;SCPI;Sofidy;Immorente;part;01/10/2030;in_loyer_scpi;1999,2;0;EUR;2030-T3
+14;Crowdlending;Raizers;Carre Saint Martin par Carre Promotion;obligation;02/05/2024;in_versement_interet;1992,49;0;EUR;-
+6;SCPI;Atland-voisin;Epargne Pierre;part;01/10/2022;in_loyer_scpi;1906,08;0;EUR;2022-T3
+6;SCPI;Atland-voisin;Epargne Pierre;part;01/04/2023;in_loyer_scpi;1906,08;0;EUR;2023-T1
+47;Conseil;PAL;PERSPECTIVES ADVISORY;facture;06/04/2023;in_facture;1890;315;EUR;F2023007
+64;VC;Jiph;Eas'IA;part;15/12/2023;out_investissement;1883;0;EUR;
+47;Conseil;PAL;PERSPECTIVES ADVISORY;facture;28/03/2024;in_facture;1860;310;EUR;F2024010
+5;SCPI;Praemia;Primopierre;part;01/08/2024;in_loyer_scpi;1731,6;0;EUR;2024-T2
+5;SCPI;Praemia;Primopierre;part;01/11/2024;in_loyer_scpi;1731,6;0;EUR;2024-T3
+5;SCPI;Praemia;Primopierre;part;01/05/2024;in_loyer_scpi;1731;0;EUR;2024-T1
+16;Crowdlending;Raizers;Chamonix Les Praz;obligation;01/07/2025;in_versement_interet;1702;0;EUR;-
+5;SCPI;Praemia;Primopierre;part;01/05/2023;in_loyer_scpi;1616,16;0;EUR;2023-T1
+5;SCPI;Praemia;Primopierre;part;01/11/2023;in_loyer_scpi;1616,16;0;EUR;2023-T3
+5;SCPI;Praemia;Primopierre;part;01/02/2024;in_loyer_scpi;1616,16;0;EUR;2023-T4
+47;Conseil;PAL;PERSPECTIVES ADVISORY;facture;01/07/2023;in_facture;1590;265;EUR;F2023017
+5;SCPI;Praemia;Primopierre;part;01/11/2022;in_loyer_scpi;1548,82;0;EUR;2022-T3
+47;Conseil;PAL;PERSPECTIVES ADVISORY;facture;15/12/2023;in_facture;1530;255;EUR;F2023034
+21;Crowdlending;Raizers;Greenwood par BG promotion;obligation;15/02/2023;in_versement_interet;1513,97;0;EUR;-
+17;Crowdlending;Raizers;Chantemesle par SAS Negu;obligation;02/05/2023;in_versement_interet;1500;0;EUR;-
+8;SCPI;CORUM;EURION;part;01/01/2025;in_loyer_scpi;1461,5;0;EUR;2025-01
+10;SCPI;Sofidy;Efimmo;part;01/10/2024;in_loyer_scpi;1460,12;0;EUR;2024-T4
+8;SCPI;CORUM;EURION;part;01/12/2024;in_loyer_scpi;1448,29;0;EUR;2024-12
+8;SCPI;CORUM;EURION;part;01/07/2023;in_loyer_scpi;1437,12;0;EUR;2023-07
+47;Conseil;PAL;PERSPECTIVES ADVISORY;facture;02/10/2023;in_facture;1395;232,5;EUR;F2023027
+53;Conseil;GRA;AURELIA DURAND DESIGN STUDIO;paiement;01/07/2024;out_paiement;1383;230,5;EUR;
+11;SCPI;Sofidy;Immorente;part;01/04/2023;in_loyer_scpi;1375,92;0;EUR;2023-T1
+19;Crowdlending;Raizers;Cote Sud par BG Promotion;obligation;05/02/2024;in_versement_interet;1361,59;0;EUR;-
+31;Crowdlending;Raizers;Villa Hibiscus par Art & Stone;obligation;22/09/2023;in_versement_interet;1358,9;0;EUR;-
+24;Crowdlending;Raizers;La Passerelle par Neo City Promotion;obligation;05/12/2024;in_versement_interet;1302,05;0;EUR;-
+47;Conseil;PAL;PERSPECTIVES ADVISORY;facture;01/07/2024;in_facture;1290;215;EUR;F2024020
+12;SCPI;Atland-voisin;Epargne Pierre Europe;part;01/04/2025;in_loyer_scpi;1265;0;EUR;2025-T1
+34;Crowdlending;Raizers;Villa Sainte-Anne par Fonciere Emeraude;obligation;01/10/2025;in_versement_interet;1252;0;EUR;-
+52;Conseil;JPG;EthiFinance SAS;facture;27/02/2023;in_facture;1200;200;EUR;F2023004
+52;Conseil;JPG;EthiFinance SAS;facture;27/03/2023;in_facture;1200;200;EUR;F2023006
+52;Conseil;JPG;EthiFinance SAS;facture;01/07/2023;in_facture;1200;200;EUR;F2023015
+52;Conseil;JPG;EthiFinance SAS;facture;27/07/2023;in_facture;1200;200;EUR;F2023019
+52;Conseil;JPG;EthiFinance SAS;facture;30/08/2023;in_facture;1200;200;EUR;F2023022
+48;Conseil;JBI;Joseph Biboum;facture;30/01/2023;in_facture;1200;200;EUR;F2023001
+48;Conseil;JBI;Joseph Biboum;facture;27/02/2023;in_facture;1200;200;EUR;F2023003
+48;Conseil;JBI;Joseph Biboum;facture;27/03/2023;in_facture;1200;200;EUR;F2023005
+48;Conseil;JBI;Joseph Biboum;facture;28/04/2023;in_facture;1200;200;EUR;F2023009
+48;Conseil;JBI;Joseph Biboum;facture;29/05/2023;in_facture;1200;200;EUR;F2023011
+48;Conseil;JBI;Joseph Biboum;facture;01/07/2023;in_facture;1200;200;EUR;F2023014
+48;Conseil;JBI;Joseph Biboum;facture;27/07/2023;in_facture;1200;200;EUR;F2023018
+1;Conseil;JPG;Managemnt fees;facture;01/08/2021;in_facture;1200;200;EUR;
+51;Conseil;JBI;Patrimoine Sur Mesure;facture;30/08/2023;in_facture;1200;200;EUR;F2023021
+51;Conseil;JBI;Patrimoine Sur Mesure;facture;28/09/2023;in_facture;1200;200;EUR;F2023024
+51;Conseil;JBI;Patrimoine Sur Mesure;facture;30/10/2023;in_facture;1200;200;EUR;F2023028
+51;Conseil;JBI;Patrimoine Sur Mesure;facture;27/11/2023;in_facture;1200;200;EUR;F2023031
+51;Conseil;JBI;Patrimoine Sur Mesure;facture;18/12/2023;in_facture;1200;200;EUR;F2023036
+49;Conseil;JPG;QIVALIO;facture;30/01/2023;in_facture;1200;200;EUR;F2023002
+8;SCPI;CORUM;EURION;part;01/04/2025;in_loyer_scpi;1188,03;0;EUR;2025-04
+39;Crowdlending;ClubFunding;West Retail Center / Infini Capital SAS;obligation;01/05/2023;in_remboursement_capital;1163,1;0;EUR;-
+5;SCPI;Praemia;Primopierre;part;01/05/2022;in_loyer_scpi;1154,4;0;EUR;2022-T1
+10;SCPI;Sofidy;Efimmo;part;01/01/2024;in_loyer_scpi;1126,74;0;EUR;2024-T1
+14;Crowdlending;Raizers;Carre Saint Martin par Carre Promotion;obligation;30/10/2024;in_versement_interet;1100;0;EUR;-
+8;SCPI;CORUM;EURION;part;01/07/2024;in_loyer_scpi;1089,43;0;EUR;2024-07
+5;SCPI;Praemia;Primopierre;part;01/07/2022;in_loyer_scpi;1032,55;0;EUR;2022-T2
+10;SCPI;Sofidy;Efimmo;part;01/07/2023;in_loyer_scpi;1012,8;0;EUR;2023-T2
+10;SCPI;Sofidy;Efimmo;part;01/10/2023;in_loyer_scpi;1012,8;0;EUR;2023-T3
+8;SCPI;CORUM;EURION;part;01/12/2023;in_loyer_scpi;1007,88;0;EUR;2023-12
+38;Crowdlending;ClubFunding;FRAGONARD SCHOOL / GDG Holdco fragonard SAS;obligation;01/06/2025;in_versement_interet;1002;0;EUR;-
+27;Crowdlending;Raizers;Rue de Ponthieu par la Fonciere de l'Immobilier;obligation;25/01/2023;in_versement_interet;1001,09;0;EUR;-
+10;SCPI;Sofidy;Efimmo;part;01/01/2025;in_loyer_scpi;1000,14;0;EUR;2025-T1
+10;SCPI;Sofidy;Efimmo;part;01/10/2025;in_loyer_scpi;1000,14;0;EUR;2025-T4
+10;SCPI;Sofidy;Efimmo;part;01/01/2026;in_loyer_scpi;1000,14;0;EUR;2026-T1
+10;SCPI;Sofidy;Efimmo;part;01/04/2026;in_loyer_scpi;1000,14;0;EUR;2026-T2
+10;SCPI;Sofidy;Efimmo;part;01/07/2026;in_loyer_scpi;1000,14;0;EUR;2026-T3
+10;SCPI;Sofidy;Efimmo;part;01/10/2026;in_loyer_scpi;1000,14;0;EUR;2026-T4
+10;SCPI;Sofidy;Efimmo;part;01/01/2027;in_loyer_scpi;1000,14;0;EUR;2027-T1
+10;SCPI;Sofidy;Efimmo;part;01/04/2027;in_loyer_scpi;1000,14;0;EUR;2027-T2
+10;SCPI;Sofidy;Efimmo;part;01/07/2027;in_loyer_scpi;1000,14;0;EUR;2027-T3
+10;SCPI;Sofidy;Efimmo;part;01/10/2027;in_loyer_scpi;1000,14;0;EUR;2027-T4
+10;SCPI;Sofidy;Efimmo;part;01/01/2028;in_loyer_scpi;1000,14;0;EUR;2028-T1
+10;SCPI;Sofidy;Efimmo;part;01/04/2028;in_loyer_scpi;1000,14;0;EUR;2028-T2
+10;SCPI;Sofidy;Efimmo;part;01/07/2028;in_loyer_scpi;1000,14;0;EUR;2028-T3
+10;SCPI;Sofidy;Efimmo;part;01/10/2028;in_loyer_scpi;1000,14;0;EUR;2028-T4
+10;SCPI;Sofidy;Efimmo;part;01/01/2029;in_loyer_scpi;1000,14;0;EUR;2029-T1
+10;SCPI;Sofidy;Efimmo;part;01/04/2029;in_loyer_scpi;1000,14;0;EUR;2029-T2
+10;SCPI;Sofidy;Efimmo;part;01/07/2029;in_loyer_scpi;1000,14;0;EUR;2029-T3
+10;SCPI;Sofidy;Efimmo;part;01/10/2029;in_loyer_scpi;1000,14;0;EUR;2029-T4
+10;SCPI;Sofidy;Efimmo;part;01/01/2030;in_loyer_scpi;1000,14;0;EUR;2030-T1
+10;SCPI;Sofidy;Efimmo;part;01/04/2030;in_loyer_scpi;1000,14;0;EUR;2030-T2
+10;SCPI;Sofidy;Efimmo;part;01/07/2030;in_loyer_scpi;1000,14;0;EUR;2030-T3
+10;SCPI;Sofidy;Efimmo;part;01/10/2030;in_loyer_scpi;1000,14;0;EUR;2030-T4
+13;Crowdlending;Raizers;4 operations immobilieres par Commercial IGP;obligation;01/07/2023;in_versement_interet;1000;0;EUR;-
+13;Crowdlending;Raizers;4 operations immobilieres par Commercial IGP;obligation;01/07/2025;in_versement_interet;1000;0;EUR;-
+18;Crowdlending;Raizers;Chemin du Glacis par MV Invest;obligation;27/02/2023;in_versement_interet;1000;0;EUR;-
+10;SCPI;Sofidy;Efimmo;part;01/07/2025;in_loyer_scpi;1000;0;EUR;2025-T3
+32;Crowdlending;Raizers;Villa Jaine par LEO INVEST;obligation;28/11/2022;in_versement_interet;1000;0;EUR;-
+32;Crowdlending;Raizers;Villa Jaine par LEO INVEST;obligation;20/10/2023;in_versement_interet;1000;0;EUR;-
+33;Crowdlending;Raizers;Villa Mougine par Art & Stone;obligation;25/02/2022;in_versement_interet;1000;0;EUR;-
+8;SCPI;CORUM;EURION;part;01/02/2025;in_loyer_scpi;993,23;0;EUR;2025-02
+8;SCPI;CORUM;EURION;part;01/01/2024;in_loyer_scpi;990,1;0;EUR;2024-01
+5;SCPI;Praemia;Primopierre;part;01/05/2025;in_loyer_scpi;962;0;EUR;2025-T1
+5;SCPI;Praemia;Primopierre;part;01/08/2025;in_loyer_scpi;962;0;EUR;2025-T2
+5;SCPI;Praemia;Primopierre;part;01/11/2025;in_loyer_scpi;962;0;EUR;2025-T3
+5;SCPI;Praemia;Primopierre;part;01/02/2026;in_loyer_scpi;962;0;EUR;2025-T4
+5;SCPI;Praemia;Primopierre;part;01/05/2026;in_loyer_scpi;962;0;EUR;2026-T1
+5;SCPI;Praemia;Primopierre;part;01/08/2026;in_loyer_scpi;962;0;EUR;2026-T2
+5;SCPI;Praemia;Primopierre;part;01/11/2026;in_loyer_scpi;962;0;EUR;2026-T3
+5;SCPI;Praemia;Primopierre;part;01/02/2027;in_loyer_scpi;962;0;EUR;2026-T4
+5;SCPI;Praemia;Primopierre;part;01/05/2027;in_loyer_scpi;962;0;EUR;2027-T1
+5;SCPI;Praemia;Primopierre;part;01/08/2027;in_loyer_scpi;962;0;EUR;2027-T2
+5;SCPI;Praemia;Primopierre;part;01/11/2027;in_loyer_scpi;962;0;EUR;2027-T3
+5;SCPI;Praemia;Primopierre;part;01/02/2028;in_loyer_scpi;962;0;EUR;2027-T4
+5;SCPI;Praemia;Primopierre;part;01/05/2028;in_loyer_scpi;962;0;EUR;2028-T1
+5;SCPI;Praemia;Primopierre;part;01/08/2028;in_loyer_scpi;962;0;EUR;2028-T2
+5;SCPI;Praemia;Primopierre;part;01/11/2028;in_loyer_scpi;962;0;EUR;2028-T3
+5;SCPI;Praemia;Primopierre;part;01/02/2029;in_loyer_scpi;962;0;EUR;2028-T4
+5;SCPI;Praemia;Primopierre;part;01/05/2029;in_loyer_scpi;962;0;EUR;2029-T1
+5;SCPI;Praemia;Primopierre;part;01/08/2029;in_loyer_scpi;962;0;EUR;2029-T2
+5;SCPI;Praemia;Primopierre;part;01/11/2029;in_loyer_scpi;962;0;EUR;2029-T3
+5;SCPI;Praemia;Primopierre;part;01/02/2030;in_loyer_scpi;962;0;EUR;2029-T4
+5;SCPI;Praemia;Primopierre;part;01/05/2030;in_loyer_scpi;962;0;EUR;2030-T1
+5;SCPI;Praemia;Primopierre;part;01/08/2030;in_loyer_scpi;962;0;EUR;2030-T2
+5;SCPI;Praemia;Primopierre;part;01/11/2030;in_loyer_scpi;962;0;EUR;2030-T3
+8;SCPI;CORUM;EURION;part;01/03/2025;in_loyer_scpi;958,4;0;EUR;2025-03
+23;Crowdlending;Raizers;Hotel Le Trayas par MEGA INVEST;obligation;15/07/2024;in_remboursement_capital;952,38;0;EUR;-
+10;SCPI;Sofidy;Efimmo;part;01/04/2024;in_loyer_scpi;949,5;0;EUR;2024-T2
+10;SCPI;Sofidy;Efimmo;part;01/07/2024;in_loyer_scpi;949,5;0;EUR;2024-T3
+8;SCPI;CORUM;EURION;part;01/09/2024;in_loyer_scpi;949,03;0;EUR;2024-09
+8;SCPI;CORUM;EURION;part;01/10/2023;in_loyer_scpi;943,63;0;EUR;2023-10
+5;SCPI;Praemia;Primopierre;part;01/02/2025;in_loyer_scpi;942,76;0;EUR;2024-T4
+12;SCPI;Atland-voisin;Epargne Pierre Europe;part;01/01/2025;in_loyer_scpi;938,22;0;EUR;2024-T4
+8;SCPI;CORUM;EURION;part;01/11/2024;in_loyer_scpi;929,81;0;EUR;2024-11
+10;SCPI;Sofidy;Efimmo;part;01/04/2025;in_loyer_scpi;924,18;0;EUR;2025-T2
+8;SCPI;CORUM;EURION;part;01/04/2024;in_loyer_scpi;922,85;0;EUR;2024-04
+8;SCPI;CORUM;EURION;part;01/06/2024;in_loyer_scpi;919,13;0;EUR;2024-06
+23;Crowdlending;Raizers;Hotel Le Trayas par MEGA INVEST;obligation;15/05/2023;in_versement_interet;911,83;0;EUR;-
+8;SCPI;CORUM;EURION;part;01/08/2024;in_loyer_scpi;910;0;EUR;2024-08
+28;Crowdlending;Raizers;Saint-Alban par UNITI;obligation;03/11/2022;in_versement_interet;900;0;EUR;-
+28;Crowdlending;Raizers;Saint-Alban par UNITI;obligation;02/11/2021;in_versement_interet;899,58;0;EUR;-
+8;SCPI;CORUM;EURION;part;01/09/2023;in_loyer_scpi;890,42;0;EUR;2023-09
+12;SCPI;Atland-voisin;Epargne Pierre Europe;part;01/07/2025;in_loyer_scpi;875;0;EUR;2025-T2
+12;SCPI;Atland-voisin;Epargne Pierre Europe;part;01/10/2025;in_loyer_scpi;875;0;EUR;2025-T3
+12;SCPI;Atland-voisin;Epargne Pierre Europe;part;01/01/2026;in_loyer_scpi;875;0;EUR;2025-T4
+12;SCPI;Atland-voisin;Epargne Pierre Europe;part;01/04/2026;in_loyer_scpi;875;0;EUR;2026-T1
+12;SCPI;Atland-voisin;Epargne Pierre Europe;part;01/07/2026;in_loyer_scpi;875;0;EUR;2026-T2
+12;SCPI;Atland-voisin;Epargne Pierre Europe;part;01/10/2026;in_loyer_scpi;875;0;EUR;2026-T3
+12;SCPI;Atland-voisin;Epargne Pierre Europe;part;01/01/2027;in_loyer_scpi;875;0;EUR;2026-T4
+12;SCPI;Atland-voisin;Epargne Pierre Europe;part;01/04/2027;in_loyer_scpi;875;0;EUR;2027-T1
+12;SCPI;Atland-voisin;Epargne Pierre Europe;part;01/07/2027;in_loyer_scpi;875;0;EUR;2027-T2
+12;SCPI;Atland-voisin;Epargne Pierre Europe;part;01/10/2027;in_loyer_scpi;875;0;EUR;2027-T3
+12;SCPI;Atland-voisin;Epargne Pierre Europe;part;01/01/2028;in_loyer_scpi;875;0;EUR;2027-T4
+12;SCPI;Atland-voisin;Epargne Pierre Europe;part;01/04/2028;in_loyer_scpi;875;0;EUR;2028-T1
+12;SCPI;Atland-voisin;Epargne Pierre Europe;part;01/07/2028;in_loyer_scpi;875;0;EUR;2028-T2
+12;SCPI;Atland-voisin;Epargne Pierre Europe;part;01/10/2028;in_loyer_scpi;875;0;EUR;2028-T3
+12;SCPI;Atland-voisin;Epargne Pierre Europe;part;01/01/2029;in_loyer_scpi;875;0;EUR;2028-T4
+12;SCPI;Atland-voisin;Epargne Pierre Europe;part;01/04/2029;in_loyer_scpi;875;0;EUR;2029-T1
+12;SCPI;Atland-voisin;Epargne Pierre Europe;part;01/07/2029;in_loyer_scpi;875;0;EUR;2029-T2
+12;SCPI;Atland-voisin;Epargne Pierre Europe;part;01/10/2029;in_loyer_scpi;875;0;EUR;2029-T3
+12;SCPI;Atland-voisin;Epargne Pierre Europe;part;01/01/2030;in_loyer_scpi;875;0;EUR;2029-T4
+12;SCPI;Atland-voisin;Epargne Pierre Europe;part;01/04/2030;in_loyer_scpi;875;0;EUR;2030-T1
+12;SCPI;Atland-voisin;Epargne Pierre Europe;part;01/07/2030;in_loyer_scpi;875;0;EUR;2030-T2
+12;SCPI;Atland-voisin;Epargne Pierre Europe;part;01/10/2030;in_loyer_scpi;875;0;EUR;2030-T3
+8;SCPI;CORUM;EURION;part;01/10/2024;in_loyer_scpi;867,36;0;EUR;2024-10
+8;SCPI;CORUM;EURION;part;01/05/2024;in_loyer_scpi;867,12;0;EUR;2024-05
+8;SCPI;CORUM;EURION;part;01/11/2023;in_loyer_scpi;850,67;0;EUR;2023-11
+16;Crowdlending;Raizers;Chamonix Les Praz;obligation;09/09/2022;in_versement_interet;850;0;EUR;-
+16;Crowdlending;Raizers;Chamonix Les Praz;obligation;03/08/2023;in_versement_interet;850;0;EUR;-
+8;SCPI;CORUM;EURION;part;01/05/2025;in_loyer_scpi;834;0;EUR;2025-05
+8;SCPI;CORUM;EURION;part;01/06/2025;in_loyer_scpi;834;0;EUR;2025-06
+8;SCPI;CORUM;EURION;part;01/07/2025;in_loyer_scpi;834;0;EUR;2025-07
+8;SCPI;CORUM;EURION;part;01/08/2025;in_loyer_scpi;834;0;EUR;2025-08
+8;SCPI;CORUM;EURION;part;01/09/2025;in_loyer_scpi;834;0;EUR;2025-09
+8;SCPI;CORUM;EURION;part;01/10/2025;in_loyer_scpi;834;0;EUR;2025-10
+8;SCPI;CORUM;EURION;part;01/11/2025;in_loyer_scpi;834;0;EUR;2025-11
+8;SCPI;CORUM;EURION;part;01/12/2025;in_loyer_scpi;834;0;EUR;2025-12
+8;SCPI;CORUM;EURION;part;01/01/2026;in_loyer_scpi;834;0;EUR;2026-01
+8;SCPI;CORUM;EURION;part;01/02/2026;in_loyer_scpi;834;0;EUR;2026-02
+8;SCPI;CORUM;EURION;part;01/03/2026;in_loyer_scpi;834;0;EUR;2026-03
+8;SCPI;CORUM;EURION;part;01/04/2026;in_loyer_scpi;834;0;EUR;2026-04
+8;SCPI;CORUM;EURION;part;01/05/2026;in_loyer_scpi;834;0;EUR;2026-05
+8;SCPI;CORUM;EURION;part;01/06/2026;in_loyer_scpi;834;0;EUR;2026-06
+8;SCPI;CORUM;EURION;part;01/07/2026;in_loyer_scpi;834;0;EUR;2026-07
+8;SCPI;CORUM;EURION;part;01/08/2026;in_loyer_scpi;834;0;EUR;2026-08
+8;SCPI;CORUM;EURION;part;01/09/2026;in_loyer_scpi;834;0;EUR;2026-09
+8;SCPI;CORUM;EURION;part;01/10/2026;in_loyer_scpi;834;0;EUR;2026-10
+8;SCPI;CORUM;EURION;part;01/11/2026;in_loyer_scpi;834;0;EUR;2026-11
+8;SCPI;CORUM;EURION;part;01/12/2026;in_loyer_scpi;834;0;EUR;2026-12
+8;SCPI;CORUM;EURION;part;01/01/2027;in_loyer_scpi;834;0;EUR;2027-01
+8;SCPI;CORUM;EURION;part;01/02/2027;in_loyer_scpi;834;0;EUR;2027-02
+8;SCPI;CORUM;EURION;part;01/03/2027;in_loyer_scpi;834;0;EUR;2027-03
+8;SCPI;CORUM;EURION;part;01/04/2027;in_loyer_scpi;834;0;EUR;2027-04
+8;SCPI;CORUM;EURION;part;01/05/2027;in_loyer_scpi;834;0;EUR;2027-05
+8;SCPI;CORUM;EURION;part;01/06/2027;in_loyer_scpi;834;0;EUR;2027-06
+8;SCPI;CORUM;EURION;part;01/07/2027;in_loyer_scpi;834;0;EUR;2027-07
+8;SCPI;CORUM;EURION;part;01/08/2027;in_loyer_scpi;834;0;EUR;2027-08
+8;SCPI;CORUM;EURION;part;01/09/2027;in_loyer_scpi;834;0;EUR;2027-09
+8;SCPI;CORUM;EURION;part;01/10/2027;in_loyer_scpi;834;0;EUR;2027-10
+8;SCPI;CORUM;EURION;part;01/11/2027;in_loyer_scpi;834;0;EUR;2027-11
+8;SCPI;CORUM;EURION;part;01/12/2027;in_loyer_scpi;834;0;EUR;2027-12
+8;SCPI;CORUM;EURION;part;01/01/2028;in_loyer_scpi;834;0;EUR;2028-01
+8;SCPI;CORUM;EURION;part;01/02/2028;in_loyer_scpi;834;0;EUR;2028-02
+8;SCPI;CORUM;EURION;part;01/03/2028;in_loyer_scpi;834;0;EUR;2028-03
+8;SCPI;CORUM;EURION;part;01/04/2028;in_loyer_scpi;834;0;EUR;2028-04
+8;SCPI;CORUM;EURION;part;01/05/2028;in_loyer_scpi;834;0;EUR;2028-05
+8;SCPI;CORUM;EURION;part;01/06/2028;in_loyer_scpi;834;0;EUR;2028-06
+8;SCPI;CORUM;EURION;part;01/07/2028;in_loyer_scpi;834;0;EUR;2028-07
+8;SCPI;CORUM;EURION;part;01/08/2028;in_loyer_scpi;834;0;EUR;2028-08
+8;SCPI;CORUM;EURION;part;01/09/2028;in_loyer_scpi;834;0;EUR;2028-09
+8;SCPI;CORUM;EURION;part;01/10/2028;in_loyer_scpi;834;0;EUR;2028-10
+8;SCPI;CORUM;EURION;part;01/11/2028;in_loyer_scpi;834;0;EUR;2028-11
+8;SCPI;CORUM;EURION;part;01/12/2028;in_loyer_scpi;834;0;EUR;2028-12
+8;SCPI;CORUM;EURION;part;01/01/2029;in_loyer_scpi;834;0;EUR;2029-01
+8;SCPI;CORUM;EURION;part;01/02/2029;in_loyer_scpi;834;0;EUR;2029-02
+8;SCPI;CORUM;EURION;part;01/03/2029;in_loyer_scpi;834;0;EUR;2029-03
+8;SCPI;CORUM;EURION;part;01/04/2029;in_loyer_scpi;834;0;EUR;2029-04
+8;SCPI;CORUM;EURION;part;01/05/2029;in_loyer_scpi;834;0;EUR;2029-05
+8;SCPI;CORUM;EURION;part;01/06/2029;in_loyer_scpi;834;0;EUR;2029-06
+8;SCPI;CORUM;EURION;part;01/07/2029;in_loyer_scpi;834;0;EUR;2029-07
+8;SCPI;CORUM;EURION;part;01/08/2029;in_loyer_scpi;834;0;EUR;2029-08
+8;SCPI;CORUM;EURION;part;01/09/2029;in_loyer_scpi;834;0;EUR;2029-09
+8;SCPI;CORUM;EURION;part;01/10/2029;in_loyer_scpi;834;0;EUR;2029-10
+8;SCPI;CORUM;EURION;part;01/11/2029;in_loyer_scpi;834;0;EUR;2029-11
+8;SCPI;CORUM;EURION;part;01/12/2029;in_loyer_scpi;834;0;EUR;2029-12
+8;SCPI;CORUM;EURION;part;01/01/2030;in_loyer_scpi;834;0;EUR;2030-01
+8;SCPI;CORUM;EURION;part;01/02/2030;in_loyer_scpi;834;0;EUR;2030-02
+8;SCPI;CORUM;EURION;part;01/03/2030;in_loyer_scpi;834;0;EUR;2030-03
+8;SCPI;CORUM;EURION;part;01/04/2030;in_loyer_scpi;834;0;EUR;2030-04
+8;SCPI;CORUM;EURION;part;01/05/2030;in_loyer_scpi;834;0;EUR;2030-05
+8;SCPI;CORUM;EURION;part;01/06/2030;in_loyer_scpi;834;0;EUR;2030-06
+8;SCPI;CORUM;EURION;part;01/07/2030;in_loyer_scpi;834;0;EUR;2030-07
+8;SCPI;CORUM;EURION;part;01/08/2030;in_loyer_scpi;834;0;EUR;2030-08
+8;SCPI;CORUM;EURION;part;01/09/2030;in_loyer_scpi;834;0;EUR;2030-09
+8;SCPI;CORUM;EURION;part;01/10/2030;in_loyer_scpi;834;0;EUR;2030-10
+8;SCPI;CORUM;EURION;part;01/11/2030;in_loyer_scpi;834;0;EUR;2030-11
+8;SCPI;CORUM;EURION;part;01/12/2030;in_loyer_scpi;834;0;EUR;2030-12
+8;SCPI;CORUM;EURION;part;01/06/2023;in_loyer_scpi;831,33;0;EUR;2023-06
+8;SCPI;CORUM;EURION;part;01/03/2024;in_loyer_scpi;824,13;0;EUR;2024-03
+8;SCPI;CORUM;EURION;part;01/08/2023;in_loyer_scpi;818,96;0;EUR;2023-08
+8;SCPI;CORUM;EURION;part;01/02/2024;in_loyer_scpi;818,48;0;EUR;2024-02
+20;Crowdlending;Raizers;Gambetta par MV INVEST;obligation;01/07/2025;in_remboursement_capital;800;0;EUR;-
+34;Crowdlending;Raizers;Villa Sainte-Anne par Fonciere Emeraude;obligation;04/07/2023;in_versement_interet;750;0;EUR;-
+8;SCPI;CORUM;EURION;part;01/09/2022;in_loyer_scpi;748,51;0;EUR;2022-09
+8;SCPI;CORUM;EURION;part;01/04/2023;in_loyer_scpi;743,36;0;EUR;2023-04
+33;Crowdlending;Raizers;Villa Mougine par Art & Stone;obligation;06/11/2023;in_versement_interet;715,05;0;EUR;-
+8;SCPI;CORUM;EURION;part;01/10/2022;in_loyer_scpi;713,63;0;EUR;2022-10
+8;SCPI;CORUM;EURION;part;01/11/2022;in_loyer_scpi;710,68;0;EUR;2022-11
+22;Crowdlending;Raizers;Hameau du Lac par Nature et Residence;obligation;11/10/2022;in_versement_interet;700;0;EUR;-
+11;SCPI;Sofidy;Immorente;part;01/03/2023;in_loyer_scpi;687,96;0;EUR;2022-Exceptionnel
+8;SCPI;CORUM;EURION;part;01/01/2023;in_loyer_scpi;678,08;0;EUR;2023-01
+10;SCPI;Sofidy;Efimmo;part;01/04/2023;in_loyer_scpi;675,2;0;EUR;2023-T1
+26;Crowdlending;Raizers;Place des Etats-Unis par Pulsim;obligation;10/06/2024;in_versement_interet;666,66;0;EUR;-
+8;SCPI;CORUM;EURION;part;01/12/2022;in_loyer_scpi;632,89;0;EUR;2022-12
+8;SCPI;CORUM;EURION;part;01/02/2023;in_loyer_scpi;632,37;0;EUR;2023-02
+8;SCPI;CORUM;EURION;part;01/03/2023;in_loyer_scpi;615,3;0;EUR;2023-03
+8;SCPI;CORUM;EURION;part;01/08/2022;in_loyer_scpi;611,98;0;EUR;2022-08
+23;Crowdlending;Raizers;Hotel Le Trayas par MEGA INVEST;obligation;18/10/2024;in_versement_interet;570,02;0;EUR;-
+18;Crowdlending;Raizers;Chemin du Glacis par MV Invest;obligation;01/07/2025;in_versement_interet;550;0;EUR;-
+23;Crowdlending;Raizers;Hotel Le Trayas par MEGA INVEST;obligation;08/04/2024;in_versement_interet;500;0;EUR;-
+26;Crowdlending;Raizers;Place des Etats-Unis par Pulsim;obligation;07/04/2022;in_versement_interet;500;0;EUR;-
+41;Crowdlending;ClubFunding;Casa Ibiza / Casalina SAS;obligation;01/07/2024;in_versement_interet;498,9;0;EUR;-
+24;Crowdlending;Raizers;La Passerelle par Neo City Promotion;obligation;11/10/2023;in_versement_interet;478,96;0;EUR;-
+24;Crowdlending;Raizers;La Passerelle par Neo City Promotion;obligation;16/08/2023;in_versement_interet;475;0;EUR;-
+23;Crowdlending;Raizers;Hotel Le Trayas par MEGA INVEST;obligation;02/10/2023;in_versement_interet;450;0;EUR;-
+22;Crowdlending;Raizers;Hameau du Lac par Nature et Residence;obligation;31/01/2025;in_remboursement_capital;437,5;0;EUR;-
+41;Crowdlending;ClubFunding;Casa Ibiza / Casalina SAS;obligation;01/06/2023;in_versement_interet;430,8;0;EUR;-
+39;Crowdlending;ClubFunding;West Retail Center / Infini Capital SAS;obligation;01/01/2025;in_versement_interet;424,5;0;EUR;-
+26;Crowdlending;Raizers;Place des Etats-Unis par Pulsim;obligation;07/10/2024;in_versement_interet;416,67;0;EUR;-
+26;Crowdlending;Raizers;Place des Etats-Unis par Pulsim;obligation;12/12/2024;in_versement_interet;416,67;0;EUR;-
+17;Crowdlending;Raizers;Chantemesle par SAS Negu;obligation;15/05/2024;in_versement_interet;407,14;0;EUR;-
+22;Crowdlending;Raizers;Hameau du Lac par Nature et Residence;obligation;13/11/2024;in_versement_interet;388,56;0;EUR;-
+22;Crowdlending;Raizers;Hameau du Lac par Nature et Residence;obligation;15/04/2024;in_versement_interet;350;0;EUR;-
+22;Crowdlending;Raizers;Hameau du Lac par Nature et Residence;obligation;01/10/2025;in_versement_interet;350;0;EUR;-
+8;SCPI;CORUM;EURION;part;01/05/2023;in_loyer_scpi;344,38;0;EUR;2023-05
+19;Crowdlending;Raizers;Cote Sud par BG Promotion;obligation;07/05/2024;in_versement_interet;331,16;0;EUR;-
+10;SCPI;Sofidy;Efimmo;part;01/12/2023;in_loyer_scpi;312,28;0;EUR;2023-T4
+36;Crowdlending;ClubFunding;Park ESCAUDAIN / BVI.EU Finance SASU;obligation;01/03/2023;in_versement_interet;311,2;0;EUR;-
+39;Crowdlending;ClubFunding;West Retail Center / Infini Capital SAS;obligation;01/04/2023;in_versement_interet;300;0;EUR;-
+40;Crowdlending;ClubFunding;Saint-Jacques / SGM Persephone SAS;obligation;01/05/2025;in_versement_interet;289;0;EUR;-
+41;Crowdlending;ClubFunding;Casa Ibiza / Casalina SAS;obligation;01/07/2023;in_versement_interet;275,1;0;EUR;-
+41;Crowdlending;ClubFunding;Casa Ibiza / Casalina SAS;obligation;01/08/2023;in_versement_interet;275,1;0;EUR;-
+41;Crowdlending;ClubFunding;Casa Ibiza / Casalina SAS;obligation;01/09/2023;in_versement_interet;275,1;0;EUR;-
+41;Crowdlending;ClubFunding;Casa Ibiza / Casalina SAS;obligation;01/10/2023;in_versement_interet;275,1;0;EUR;-
+41;Crowdlending;ClubFunding;Casa Ibiza / Casalina SAS;obligation;01/11/2023;in_versement_interet;275,1;0;EUR;-
+41;Crowdlending;ClubFunding;Casa Ibiza / Casalina SAS;obligation;01/12/2023;in_versement_interet;275,1;0;EUR;-
+41;Crowdlending;ClubFunding;Casa Ibiza / Casalina SAS;obligation;01/01/2024;in_versement_interet;275,1;0;EUR;-
+41;Crowdlending;ClubFunding;Casa Ibiza / Casalina SAS;obligation;01/02/2024;in_versement_interet;275,1;0;EUR;-
+41;Crowdlending;ClubFunding;Casa Ibiza / Casalina SAS;obligation;01/03/2024;in_versement_interet;275,1;0;EUR;-
+41;Crowdlending;ClubFunding;Casa Ibiza / Casalina SAS;obligation;01/04/2024;in_versement_interet;275,1;0;EUR;-
+41;Crowdlending;ClubFunding;Casa Ibiza / Casalina SAS;obligation;01/05/2024;in_versement_interet;275,1;0;EUR;-
+41;Crowdlending;ClubFunding;Casa Ibiza / Casalina SAS;obligation;01/06/2024;in_versement_interet;275,1;0;EUR;-
+20;Crowdlending;Raizers;Gambetta par MV INVEST;obligation;02/10/2024;in_remboursement_capital;266,67;0;EUR;-
+20;Crowdlending;Raizers;Gambetta par MV INVEST;obligation;27/12/2024;in_remboursement_capital;266,67;0;EUR;-
+20;Crowdlending;Raizers;Gambetta par MV INVEST;obligation;28/01/2025;in_remboursement_capital;266,67;0;EUR;-
+20;Crowdlending;Raizers;Gambetta par MV INVEST;obligation;15/11/2024;in_remboursement_capital;266,66;0;EUR;-
+34;Crowdlending;Raizers;Villa Sainte-Anne par Fonciere Emeraude;obligation;10/07/2023;in_versement_interet;253,2;0;EUR;-
+39;Crowdlending;ClubFunding;West Retail Center / Infini Capital SAS;obligation;01/06/2023;in_versement_interet;252,3;0;EUR;-
+39;Crowdlending;ClubFunding;West Retail Center / Infini Capital SAS;obligation;01/05/2023;in_versement_interet;249,9;0;EUR;-
+39;Crowdlending;ClubFunding;West Retail Center / Infini Capital SAS;obligation;01/07/2023;in_versement_interet;240,3;0;EUR;-
+39;Crowdlending;ClubFunding;West Retail Center / Infini Capital SAS;obligation;01/08/2023;in_versement_interet;240,3;0;EUR;-
+39;Crowdlending;ClubFunding;West Retail Center / Infini Capital SAS;obligation;01/09/2023;in_versement_interet;240,3;0;EUR;-
+39;Crowdlending;ClubFunding;West Retail Center / Infini Capital SAS;obligation;01/10/2023;in_versement_interet;240,3;0;EUR;-
+39;Crowdlending;ClubFunding;West Retail Center / Infini Capital SAS;obligation;01/11/2023;in_versement_interet;240,3;0;EUR;-
+39;Crowdlending;ClubFunding;West Retail Center / Infini Capital SAS;obligation;01/12/2023;in_versement_interet;240,3;0;EUR;-
+39;Crowdlending;ClubFunding;West Retail Center / Infini Capital SAS;obligation;01/01/2024;in_versement_interet;240,3;0;EUR;-
+39;Crowdlending;ClubFunding;West Retail Center / Infini Capital SAS;obligation;01/02/2024;in_versement_interet;240,3;0;EUR;-
+39;Crowdlending;ClubFunding;West Retail Center / Infini Capital SAS;obligation;01/03/2024;in_versement_interet;240,3;0;EUR;-
+39;Crowdlending;ClubFunding;West Retail Center / Infini Capital SAS;obligation;01/04/2024;in_versement_interet;240,3;0;EUR;-
+39;Crowdlending;ClubFunding;West Retail Center / Infini Capital SAS;obligation;01/05/2024;in_versement_interet;240,3;0;EUR;-
+39;Crowdlending;ClubFunding;West Retail Center / Infini Capital SAS;obligation;01/06/2024;in_versement_interet;240,3;0;EUR;-
+39;Crowdlending;ClubFunding;West Retail Center / Infini Capital SAS;obligation;01/07/2024;in_versement_interet;240,3;0;EUR;-
+39;Crowdlending;ClubFunding;West Retail Center / Infini Capital SAS;obligation;01/08/2024;in_versement_interet;240,3;0;EUR;-
+39;Crowdlending;ClubFunding;West Retail Center / Infini Capital SAS;obligation;01/09/2024;in_versement_interet;240,3;0;EUR;-
+39;Crowdlending;ClubFunding;West Retail Center / Infini Capital SAS;obligation;01/10/2024;in_versement_interet;240,3;0;EUR;-
+39;Crowdlending;ClubFunding;West Retail Center / Infini Capital SAS;obligation;01/02/2025;in_versement_interet;240,3;0;EUR;-
+39;Crowdlending;ClubFunding;West Retail Center / Infini Capital SAS;obligation;01/03/2025;in_versement_interet;240,3;0;EUR;-
+39;Crowdlending;ClubFunding;West Retail Center / Infini Capital SAS;obligation;01/04/2025;in_versement_interet;240,3;0;EUR;-
+39;Crowdlending;ClubFunding;West Retail Center / Infini Capital SAS;obligation;01/05/2025;in_versement_interet;240;0;EUR;-
+38;Crowdlending;ClubFunding;FRAGONARD SCHOOL / GDG Holdco fragonard SAS;obligation;01/04/2023;in_versement_interet;233,4;0;EUR;-
+40;Crowdlending;ClubFunding;Saint-Jacques / SGM Persephone SAS;obligation;01/05/2023;in_versement_interet;216,6;0;EUR;-
+36;Crowdlending;ClubFunding;Park ESCAUDAIN / BVI.EU Finance SASU;obligation;01/02/2025;in_versement_interet;183,4;0;EUR;-
+22;Crowdlending;Raizers;Hameau du Lac par Nature et Residence;obligation;28/04/2025;in_versement_interet;175;0;EUR;-
+40;Crowdlending;ClubFunding;Saint-Jacques / SGM Persephone SAS;obligation;01/06/2025;in_versement_interet;167;0;EUR;-
+36;Crowdlending;ClubFunding;Park ESCAUDAIN / BVI.EU Finance SASU;obligation;01/12/2024;in_versement_interet;166,67;0;EUR;-
+36;Crowdlending;ClubFunding;Park ESCAUDAIN / BVI.EU Finance SASU;obligation;01/01/2025;in_versement_interet;166,67;0;EUR;-
+36;Crowdlending;ClubFunding;Park ESCAUDAIN / BVI.EU Finance SASU;obligation;01/05/2025;in_versement_interet;166,67;0;EUR;-
+36;Crowdlending;ClubFunding;Park ESCAUDAIN / BVI.EU Finance SASU;obligation;01/06/2025;in_versement_interet;166,67;0;EUR;-
+36;Crowdlending;ClubFunding;Park ESCAUDAIN / BVI.EU Finance SASU;obligation;01/07/2025;in_versement_interet;166,67;0;EUR;-
+40;Crowdlending;ClubFunding;Saint-Jacques / SGM Persephone SAS;obligation;01/12/2024;in_versement_interet;166,67;0;EUR;-
+40;Crowdlending;ClubFunding;Saint-Jacques / SGM Persephone SAS;obligation;01/01/2025;in_versement_interet;166,67;0;EUR;-
+40;Crowdlending;ClubFunding;Saint-Jacques / SGM Persephone SAS;obligation;01/02/2025;in_versement_interet;166,67;0;EUR;-
+38;Crowdlending;ClubFunding;FRAGONARD SCHOOL / GDG Holdco fragonard SAS;obligation;01/05/2023;in_versement_interet;166,6;0;EUR;-
+38;Crowdlending;ClubFunding;FRAGONARD SCHOOL / GDG Holdco fragonard SAS;obligation;01/06/2023;in_versement_interet;166,6;0;EUR;-
+38;Crowdlending;ClubFunding;FRAGONARD SCHOOL / GDG Holdco fragonard SAS;obligation;01/07/2023;in_versement_interet;166,6;0;EUR;-
+38;Crowdlending;ClubFunding;FRAGONARD SCHOOL / GDG Holdco fragonard SAS;obligation;01/08/2023;in_versement_interet;166,6;0;EUR;-
+38;Crowdlending;ClubFunding;FRAGONARD SCHOOL / GDG Holdco fragonard SAS;obligation;01/09/2023;in_versement_interet;166,6;0;EUR;-
+38;Crowdlending;ClubFunding;FRAGONARD SCHOOL / GDG Holdco fragonard SAS;obligation;01/10/2023;in_versement_interet;166,6;0;EUR;-
+38;Crowdlending;ClubFunding;FRAGONARD SCHOOL / GDG Holdco fragonard SAS;obligation;01/11/2023;in_versement_interet;166,6;0;EUR;-
+38;Crowdlending;ClubFunding;FRAGONARD SCHOOL / GDG Holdco fragonard SAS;obligation;01/12/2023;in_versement_interet;166,6;0;EUR;-
+38;Crowdlending;ClubFunding;FRAGONARD SCHOOL / GDG Holdco fragonard SAS;obligation;01/01/2024;in_versement_interet;166,6;0;EUR;-
+38;Crowdlending;ClubFunding;FRAGONARD SCHOOL / GDG Holdco fragonard SAS;obligation;01/02/2024;in_versement_interet;166,6;0;EUR;-
+38;Crowdlending;ClubFunding;FRAGONARD SCHOOL / GDG Holdco fragonard SAS;obligation;01/03/2024;in_versement_interet;166,6;0;EUR;-
+38;Crowdlending;ClubFunding;FRAGONARD SCHOOL / GDG Holdco fragonard SAS;obligation;01/04/2024;in_versement_interet;166,6;0;EUR;-
+38;Crowdlending;ClubFunding;FRAGONARD SCHOOL / GDG Holdco fragonard SAS;obligation;01/05/2024;in_versement_interet;166,6;0;EUR;-
+38;Crowdlending;ClubFunding;FRAGONARD SCHOOL / GDG Holdco fragonard SAS;obligation;01/06/2024;in_versement_interet;166,6;0;EUR;-
+38;Crowdlending;ClubFunding;FRAGONARD SCHOOL / GDG Holdco fragonard SAS;obligation;01/07/2024;in_versement_interet;166,6;0;EUR;-
+38;Crowdlending;ClubFunding;FRAGONARD SCHOOL / GDG Holdco fragonard SAS;obligation;01/08/2024;in_versement_interet;166,6;0;EUR;-
+38;Crowdlending;ClubFunding;FRAGONARD SCHOOL / GDG Holdco fragonard SAS;obligation;01/09/2024;in_versement_interet;166,6;0;EUR;-
+38;Crowdlending;ClubFunding;FRAGONARD SCHOOL / GDG Holdco fragonard SAS;obligation;01/10/2024;in_versement_interet;166,6;0;EUR;-
+38;Crowdlending;ClubFunding;FRAGONARD SCHOOL / GDG Holdco fragonard SAS;obligation;01/11/2024;in_versement_interet;166,6;0;EUR;-
+36;Crowdlending;ClubFunding;Park ESCAUDAIN / BVI.EU Finance SASU;obligation;01/04/2023;in_versement_interet;166,6;0;EUR;-
+36;Crowdlending;ClubFunding;Park ESCAUDAIN / BVI.EU Finance SASU;obligation;01/05/2023;in_versement_interet;166,6;0;EUR;-
+36;Crowdlending;ClubFunding;Park ESCAUDAIN / BVI.EU Finance SASU;obligation;01/06/2023;in_versement_interet;166,6;0;EUR;-
+36;Crowdlending;ClubFunding;Park ESCAUDAIN / BVI.EU Finance SASU;obligation;01/07/2023;in_versement_interet;166,6;0;EUR;-
+36;Crowdlending;ClubFunding;Park ESCAUDAIN / BVI.EU Finance SASU;obligation;01/08/2023;in_versement_interet;166,6;0;EUR;-
+36;Crowdlending;ClubFunding;Park ESCAUDAIN / BVI.EU Finance SASU;obligation;01/09/2023;in_versement_interet;166,6;0;EUR;-
+36;Crowdlending;ClubFunding;Park ESCAUDAIN / BVI.EU Finance SASU;obligation;01/10/2023;in_versement_interet;166,6;0;EUR;-
+36;Crowdlending;ClubFunding;Park ESCAUDAIN / BVI.EU Finance SASU;obligation;01/11/2023;in_versement_interet;166,6;0;EUR;-
+36;Crowdlending;ClubFunding;Park ESCAUDAIN / BVI.EU Finance SASU;obligation;01/12/2023;in_versement_interet;166,6;0;EUR;-
+36;Crowdlending;ClubFunding;Park ESCAUDAIN / BVI.EU Finance SASU;obligation;01/01/2024;in_versement_interet;166,6;0;EUR;-
+36;Crowdlending;ClubFunding;Park ESCAUDAIN / BVI.EU Finance SASU;obligation;01/02/2024;in_versement_interet;166,6;0;EUR;-
+36;Crowdlending;ClubFunding;Park ESCAUDAIN / BVI.EU Finance SASU;obligation;01/03/2024;in_versement_interet;166,6;0;EUR;-
+36;Crowdlending;ClubFunding;Park ESCAUDAIN / BVI.EU Finance SASU;obligation;01/04/2024;in_versement_interet;166,6;0;EUR;-
+36;Crowdlending;ClubFunding;Park ESCAUDAIN / BVI.EU Finance SASU;obligation;01/05/2024;in_versement_interet;166,6;0;EUR;-
+36;Crowdlending;ClubFunding;Park ESCAUDAIN / BVI.EU Finance SASU;obligation;01/06/2024;in_versement_interet;166,6;0;EUR;-
+36;Crowdlending;ClubFunding;Park ESCAUDAIN / BVI.EU Finance SASU;obligation;01/07/2024;in_versement_interet;166,6;0;EUR;-
+36;Crowdlending;ClubFunding;Park ESCAUDAIN / BVI.EU Finance SASU;obligation;01/08/2024;in_versement_interet;166,6;0;EUR;-
+36;Crowdlending;ClubFunding;Park ESCAUDAIN / BVI.EU Finance SASU;obligation;01/09/2024;in_versement_interet;166,6;0;EUR;-
+36;Crowdlending;ClubFunding;Park ESCAUDAIN / BVI.EU Finance SASU;obligation;01/10/2024;in_versement_interet;166,6;0;EUR;-
+36;Crowdlending;ClubFunding;Park ESCAUDAIN / BVI.EU Finance SASU;obligation;01/11/2024;in_versement_interet;166,6;0;EUR;-
+40;Crowdlending;ClubFunding;Saint-Jacques / SGM Persephone SAS;obligation;01/06/2023;in_versement_interet;166,6;0;EUR;-
+40;Crowdlending;ClubFunding;Saint-Jacques / SGM Persephone SAS;obligation;01/07/2023;in_versement_interet;166,6;0;EUR;-
+40;Crowdlending;ClubFunding;Saint-Jacques / SGM Persephone SAS;obligation;01/08/2023;in_versement_interet;166,6;0;EUR;-
+40;Crowdlending;ClubFunding;Saint-Jacques / SGM Persephone SAS;obligation;01/09/2023;in_versement_interet;166,6;0;EUR;-
+40;Crowdlending;ClubFunding;Saint-Jacques / SGM Persephone SAS;obligation;01/10/2023;in_versement_interet;166,6;0;EUR;-
+40;Crowdlending;ClubFunding;Saint-Jacques / SGM Persephone SAS;obligation;01/11/2023;in_versement_interet;166,6;0;EUR;-
+40;Crowdlending;ClubFunding;Saint-Jacques / SGM Persephone SAS;obligation;01/12/2023;in_versement_interet;166,6;0;EUR;-
+40;Crowdlending;ClubFunding;Saint-Jacques / SGM Persephone SAS;obligation;01/01/2024;in_versement_interet;166,6;0;EUR;-
+40;Crowdlending;ClubFunding;Saint-Jacques / SGM Persephone SAS;obligation;01/02/2024;in_versement_interet;166,6;0;EUR;-
+40;Crowdlending;ClubFunding;Saint-Jacques / SGM Persephone SAS;obligation;01/03/2024;in_versement_interet;166,6;0;EUR;-
+40;Crowdlending;ClubFunding;Saint-Jacques / SGM Persephone SAS;obligation;01/04/2024;in_versement_interet;166,6;0;EUR;-
+40;Crowdlending;ClubFunding;Saint-Jacques / SGM Persephone SAS;obligation;01/05/2024;in_versement_interet;166,6;0;EUR;-
+40;Crowdlending;ClubFunding;Saint-Jacques / SGM Persephone SAS;obligation;01/06/2024;in_versement_interet;166,6;0;EUR;-
+40;Crowdlending;ClubFunding;Saint-Jacques / SGM Persephone SAS;obligation;01/07/2024;in_versement_interet;166,6;0;EUR;-
+40;Crowdlending;ClubFunding;Saint-Jacques / SGM Persephone SAS;obligation;01/08/2024;in_versement_interet;166,6;0;EUR;-
+40;Crowdlending;ClubFunding;Saint-Jacques / SGM Persephone SAS;obligation;01/09/2024;in_versement_interet;166,6;0;EUR;-
+40;Crowdlending;ClubFunding;Saint-Jacques / SGM Persephone SAS;obligation;01/10/2024;in_versement_interet;166,6;0;EUR;-
+40;Crowdlending;ClubFunding;Saint-Jacques / SGM Persephone SAS;obligation;01/11/2024;in_versement_interet;166,6;0;EUR;-
+40;Crowdlending;ClubFunding;Saint-Jacques / SGM Persephone SAS;obligation;01/03/2025;in_versement_interet;166,6;0;EUR;-
+36;Crowdlending;ClubFunding;Park ESCAUDAIN / BVI.EU Finance SASU;obligation;01/03/2025;in_versement_interet;165;0;EUR;-
+36;Crowdlending;ClubFunding;Park ESCAUDAIN / BVI.EU Finance SASU;obligation;01/04/2025;in_versement_interet;165;0;EUR;-
+28;Crowdlending;Raizers;Saint-Alban par UNITI;obligation;13/01/2023;in_versement_interet;120,32;0;EUR;-
+39;Crowdlending;ClubFunding;West Retail Center / Infini Capital SAS;obligation;01/11/2024;in_versement_interet;56,1;0;EUR;-
+28;Crowdlending;Raizers;Saint-Alban par UNITI;obligation;13/02/2023;in_versement_interet;53,81;0;EUR;-
+40;Crowdlending;ClubFunding;Saint-Jacques / SGM Persephone SAS;obligation;01/04/2025;in_versement_interet;44,8;0;EUR;-
+38;Crowdlending;ClubFunding;FRAGONARD SCHOOL / GDG Holdco fragonard SAS;obligation;01/12/2024;in_versement_interet;33,2;0;EUR;-
+34;Crowdlending;Raizers;Villa Sainte-Anne par Fonciere Emeraude;obligation;27/07/2023;in_versement_interet;6,94;0;EUR;-
+26;Crowdlending;Raizers;Place des Etats-Unis par Pulsim;obligation;01/07/2025;in_versement_interet;1;0;EUR;-
+52;Conseil;DLA;EthiFinance SAS;facture;29/05/2023;in_facture;0;1870;EUR;F2023GAR01
+52;Conseil;DLA;EthiFinance SAS;facture;27/06/2023;in_facture;0;3840,4;EUR;F2023GAR02
+38;Crowdlending;ClubFunding;FRAGONARD SCHOOL / GDG Holdco fragonard SAS;obligation;01/01/2025;in_versement_interet;0;0;EUR;-
+38;Crowdlending;ClubFunding;FRAGONARD SCHOOL / GDG Holdco fragonard SAS;obligation;01/02/2025;in_versement_interet;0;0;EUR;-
+38;Crowdlending;ClubFunding;FRAGONARD SCHOOL / GDG Holdco fragonard SAS;obligation;01/03/2025;in_versement_interet;0;0;EUR;-
+38;Crowdlending;ClubFunding;FRAGONARD SCHOOL / GDG Holdco fragonard SAS;obligation;01/04/2025;in_versement_interet;0;0;EUR;-
+38;Crowdlending;ClubFunding;FRAGONARD SCHOOL / GDG Holdco fragonard SAS;obligation;01/05/2025;in_versement_interet;0;0;EUR;-
+25;Crowdlending;Raizers;Le Boulou par Prestige Immo;obligation;01/07/2025;in_versement_interet;0;0;EUR;-
+30;Crowdlending;Raizers;Villa Cote d'Azur par Guccy & HK Group;obligation;01/07/2025;in_versement_interet;0;0;EUR;-
+39;Crowdlending;ClubFunding;West Retail Center / Infini Capital SAS;obligation;01/12/2024;in_versement_interet;0;0;EUR;-
